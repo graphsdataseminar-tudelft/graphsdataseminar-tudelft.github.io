@@ -2,6 +2,21 @@
 layout: default
 ---
 
+# Upcoming Talks
+
+TBD
+
+# Past Talks
+
+[May 2nd, 2024]
+- [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), Michel Verhaegen
+
+[April 4th, 2024]
+- [**Graphs and Differential Equations in Machine Learning**](./past_talks/20240404.md), Yves van Gennip
+- [**Inferring Time-Varying Signals over Graphs via SPDEs**](./past_talks/20240404.md), Mohammad Sabbaqi
+
+
+<!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -120,4 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->

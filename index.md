@@ -8,7 +8,7 @@ The seminar takes place every month and comprises 2/3 talks:
 - One long talk + Q&A (45min)
 - One/two shorter talks + Q&A (targeting a specific topic/research) (20 min).
 
-You can sign up here to receive updates via email about the seminar.
+You can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to receive updates via email about the seminar.
 
 
 # Upcoming Talks
@@ -24,6 +24,12 @@ TBD
 - [**Graphs and Differential Equations in Machine Learning**](./past_talks/20240404.md), Yves van Gennip
 - [**Inferring Time-Varying Signals over Graphs via SPDEs**](./past_talks/20240404.md), Mohammad Sabbaqi
 
+
+# Organizers
+
+- [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
+- [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
+- [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

@@ -2,6 +2,15 @@
 layout: default
 ---
 
+Welcome! This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
+
+The seminar takes place every month and comprises 2/3 talks:
+- One long talk + Q&A (45min)
+- One/two shorter talks + Q&A (targeting a specific topic/research) (20 min).
+
+You can sign up here to receive updates via email about the seminar.
+
+
 # Upcoming Talks
 
 TBD

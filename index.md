@@ -17,12 +17,27 @@ TBD
 
 # Past Talks
 
-[May 2nd, 2024]
+[May 2nd, 2024] **System identification**
 - [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), Michel Verhaegen
 
-[April 4th, 2024]
+[April 4th, 2024] **PDEs and graphs**
 - [**Graphs and Differential Equations in Machine Learning**](./past_talks/20240404.md), Yves van Gennip
 - [**Inferring Time-Varying Signals over Graphs via SPDEs**](./past_talks/20240404.md), Mohammad Sabbaqi
+
+[March 14th, 2024] **Higher-order structures**
+- [**Geometry Processing: Discretization, Learning and Analysis**](./past_talks/20240314.md), Klaus Hildebrandt
+- [**Hodge-compositional Edge Gaussian Processes**](./past_talks/20240314.md), Maosheng Yang
+- [**DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds**](./past_talks/20240314.md), Ruben Wiersma
+
+[February 15th, 2024] **Water networks**
+- [**Towards foundational (meta)models of water distribution networks with Graph Neural Networks**](./past_talks/20240215.md), Riccardo Taormina
+- [**Faster and Transferable Urban Drainage Simulations with Graph Neural Networks**](./past_talks/20240215.md), Alexander Garzón
+- [**Relating complex network theory metrics with discolouration activity in water distribution systems**](./past_talks/20240215.md), Greg Kyritsakas
+
+[January 11th, 2024] **Temporal and higher-order networks** [Slides](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC){: .btn}
+- [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md), Huijuan Wang
+- [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md), Chengen Liu
+- [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md), Alberto Ceria
 
 
 # Organizers
@@ -30,6 +45,7 @@ TBD
 - [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
 - [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
 - [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)
+- [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) (former organizer)
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

@@ -34,30 +34,30 @@ TBD
 - [**Faster and Transferable Urban Drainage Simulations with Graph Neural Networks**](./past_talks/20240215.md), Alexander Garzón
 - [**Relating complex network theory metrics with discolouration activity in water distribution systems**](./past_talks/20240215.md), Greg Kyritsakas
 
-[January 11th, 2024] **Temporal and higher-order networks** [Slides][https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC]
+[January 11th, 2024] **Temporal and higher-order networks** ([Slides](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC))
 - [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md), Huijuan Wang
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md), Chengen Liu
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md), Alberto Ceria
 
-[December 7th, 2023] **Graph signal processing** [Slides][https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT]
-- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md), Geert Leus [Recording](https://www.youtube.com/watch?v=O6rxAIbqqMo&ab_channel=Elvinisufi)
-- [**Learning (Time-Varying) Graphs from (Online) Data**](./past_talks/20231207.md), Alberto Natali [Recording](https://www.youtube.com/watch?v=kCUVcRBg0nc&ab_channel=Elvinisufi)
-- [**Uncovering Temporal Networks through Tensor-like Decompositions**](./past_talks/20231207.md), Bishwadeep Das [Recording](https://www.youtube.com/watch?v=wUy4S24fjoA&ab_channel=Elvinisufi)
+[December 7th, 2023] **Graph signal processing** ([Slides](https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT))
+- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md), Geert Leus ([Recording](https://www.youtube.com/watch?v=O6rxAIbqqMo&ab_channel=Elvinisufi))
+- [**Learning (Time-Varying) Graphs from (Online) Data**](./past_talks/20231207.md), Alberto Natali ([Recording](https://www.youtube.com/watch?v=kCUVcRBg0nc&ab_channel=Elvinisufi))
+- [**Uncovering Temporal Networks through Tensor-like Decompositions**](./past_talks/20231207.md), Bishwadeep Das ([Recording](https://www.youtube.com/watch?v=wUy4S24fjoA&ab_channel=Elvinisufi))
 
 
-[November 9th, 2023] **Graph neural networks** [Slides][https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF]
-- [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md), Megha Khosla [Recording](https://www.youtube.com/watch?v=J5UDZ3Ln7ac&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6)
+[November 9th, 2023] **Graph neural networks** ([Slides](https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF))
+- [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md), Megha Khosla ([Recording](https://www.youtube.com/watch?v=J5UDZ3Ln7ac&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6))
 - [**Multi-label Node Classification On Graph-Structured Data**](./past_talks/20231109.md), Tianqi Zhao
- [Recording](https://www.youtube.com/watch?v=eGjqgAKEf1o&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=8&ab_channel=Elvinisufi)
-- [**Self-Attention Message Passing for Contrastive Few-Shot Image Classification**](./past_talks/20231109.md), Ojas Shirekar [Recording](https://www.youtube.com/watch?v=1RyKfa002z8&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6&ab_channel=Elvinisufi)
+ ([Recording](https://www.youtube.com/watch?v=eGjqgAKEf1o&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=8&ab_channel=Elvinisufi))
+- [**Self-Attention Message Passing for Contrastive Few-Shot Image Classification**](./past_talks/20231109.md), Ojas Shirekar ([Recording](https://www.youtube.com/watch?v=1RyKfa002z8&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6&ab_channel=Elvinisufi))
 
 
 
-[October 5th, 2023] **Network representation and inference** [Slides][https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS]
-- [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md), Maksim Kitsak [Recording](https://www.youtube.com/watch?v=18HG0KE6YrQ&ab_channel=Elvinisufi)
+[October 5th, 2023] **Network representation and inference** ([Slides](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS))
+- [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md), Maksim Kitsak ([Recording](https://www.youtube.com/watch?v=18HG0KE6YrQ&ab_channel=Elvinisufi))
 - [**Learning Graphs and Simplicial Complexes From Data**](./past_talks/20231005.md), Andrei Buciulea Vlas
- [Recording](https://www.youtube.com/watch?v=VwD0u1zBYxo)
-- [**System Identification for Temporal Networks**](./past_talks/20231005.md), Sergey Shvydun [Recording](https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi)
+ ([Recording](https://www.youtube.com/watch?v=VwD0u1zBYxo))
+- [**System Identification for Temporal Networks**](./past_talks/20231005.md), Sergey Shvydun ([Recording](https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi))
 
 
 

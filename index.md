@@ -34,8 +34,13 @@ TBD
 - [**Faster and Transferable Urban Drainage Simulations with Graph Neural Networks**](./past_talks/20240215.md), Alexander Garzón
 - [**Relating complex network theory metrics with discolouration activity in water distribution systems**](./past_talks/20240215.md), Greg Kyritsakas
 
-[January 11th, 2024] **Temporal and higher-order networks** [Slides](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC){: .btn}
+[January 11th, 2024] **Temporal and higher-order networks** [<kbd> <br>Slides<br> </kbd>][https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC]{: .btn}
 - [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md), Huijuan Wang
+- [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md), Chengen Liu
+- [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md), Alberto Ceria
+
+[December 7th, 2023] **Graph signal processing** [<kbd> <br>Slides<br> </kbd>](https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT){: .btn}
+- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md), Geert Leus
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md), Chengen Liu
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md), Alberto Ceria
 

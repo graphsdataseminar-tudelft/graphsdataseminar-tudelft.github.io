@@ -16,8 +16,8 @@ You can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=TVJuC
 [July 11th, 2024 - 10:00 to 12:00 in Snijderszaal  (01.010 Building 36- EWI) - TU Delft] **Special session** - [Join via Zoom](https://tudelft.zoom.us/meeting/register/tJclfuCsrD4sGd3cS6t1UBpS8tTLPiT7ydJj)
 - [**Learning on directed acyclic graphs**](./past_talks/20240711.md), Samuel Rey Escudero
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md), Rohan Thekkemarickal Money
-- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md), Víctor Manuel Tenorio Gómez
 - [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md), Madeline Navarro
+- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md), Víctor Manuel Tenorio Gómez
 
 # Past Talks
 

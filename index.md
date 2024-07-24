@@ -19,7 +19,7 @@ Coming soon...
 
 # Past Talks
 
-## [July 11th, 2024] **Special session** 
+## [July 11th, 2024] **Special session - Learning with graphs** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
 
     <a class="btn" href="../slides/20240711_money.pdf" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">

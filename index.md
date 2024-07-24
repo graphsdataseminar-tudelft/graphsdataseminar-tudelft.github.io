@@ -19,10 +19,10 @@ Coming soon...
 
 [July 11th, 2024] **Special session** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
-    <a href="../slides/20240711_money.pdf" style="background-color: #A92D12; border: none; color: white;">
+    <a href="../slides/20240711_money.pdf" style="background-color: #FF7F50; border: black; color: white;">
        Slides
     </a>
-    <a href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi" style="background-color: #3436C9; border: none; color: white;">
+    <a href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi" style="background-color: #9FE2BF; border: black; color: white;">
        Recording
     </a>
     <button style="background-color:red; border-color:black; color:white" href="../slides/20240711_money.pdf">Slides</button> (<a href="../slides/20240711_money.pdf" target="_blank">Slides</a>) <button style="background-color:blue; border-color:black; color:white" href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi">Recording</button> ([Recording](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi))

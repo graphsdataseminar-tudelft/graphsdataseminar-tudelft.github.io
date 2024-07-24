@@ -22,7 +22,7 @@ Coming soon...
     <a class="btn" href="../slides/20240711_money.pdf" style="background-color: green; border-color:black; color: white;">
       Slides
     </a>
-    <button onclick="location.href='../slides/20240711_money.pdf'" type="button" style="background-color: green; border-color:black; color: white;">
+    <button onclick="location.href='../slides/20240711_money.pdf'" type="button" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
          Slides
     </button>
     <a href="../slides/20240711_money.pdf" class="button" style="background-color: red; border-color:black; color: white;">

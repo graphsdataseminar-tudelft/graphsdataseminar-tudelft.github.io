@@ -66,9 +66,9 @@ Coming soon...
 
 ## [January 11th, 2024] **Temporal and higher-order networks** 
 
-  <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
-    Slides
-  </a>
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
 
 - [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)

@@ -19,7 +19,7 @@ Coming soon...
 
 # Past Talks
 
-[July 11th, 2024] **Special session** 
+## [July 11th, 2024] **Special session** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
 
     <a class="btn" href="../slides/20240711_money.pdf" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
@@ -47,29 +47,29 @@ Coming soon...
       Recording
     </a>
 
-[May 2nd, 2024] **System identification**
+## [May 2nd, 2024] **System identification**
 - [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), [Michel Verhaegen](https://www.dcsc.tudelft.nl/~mverhaegen/)
 
-[April 4th, 2024] **PDEs and graphs**
+## [April 4th, 2024] **PDEs and graphs**
 - [**Graphs and Differential Equations in Machine Learning**](./past_talks/20240404.md#graphs-and-differential-equations-in-machine-learning), [Yves van Gennip](https://scholar.google.com/citations?user=ZV9trHAAAAAJ&hl=en)
 - [**Inferring Time-Varying Signals over Graphs via SPDEs**](./past_talks/20240404.md#inferring-time-varying-signals-over-graphs-via-spdes), [Mohammad Sabbaqi](https://scholar.google.com/citations?user=5lnSQvEAAAAJ&hl=en)
 
-[March 14th, 2024] **Higher-order structures**
+## [March 14th, 2024] **Higher-order structures**
 - [**Geometry Processing: Discretization, Learning and Analysis**](./past_talks/20240314.md#geometry-processing-discretization-learning-and-analysis), [Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus/)
 - [**Hodge-compositional Edge Gaussian Processes**](./past_talks/20240314.md#hodge-compositional-edge-gaussian-processes), [Maosheng Yang](https://scholar.google.dk/citations?user=-ka_yNQAAAAJ&hl=en)
 - [**DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds**](./past_talks/20240314.md#deltaconv-anisotropic-operators-for-geometric-deep-learning-on-point-clouds), [Ruben Wiersma](https://rubenwiersma.nl/)
 
-[February 15th, 2024] **Water networks**
+## [February 15th, 2024] **Water networks**
 - [**Towards foundational (meta)models of water distribution networks with Graph Neural Networks**](./past_talks/20240215.md#towards-foundational-metamodels-of-water-distribution-networks-with-graph-neural-networks), [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina)
 - [**Faster and Transferable Urban Drainage Simulations with Graph Neural Networks**](./past_talks/20240215.md#faster-and-transferable-urban-drainage-simulations-with-graph-neural-networks), [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44)
 - [**Relating complex network theory metrics with discolouration activity in water distribution systems**](./past_talks/20240215.md#relating-complex-network-theory-metrics-with-discolouration-activity-in-water-distribution-systems), [Greg Kyritsakas](https://www.tudelft.nl/staff/g.kyritsakas/?cHash=5cd63c7cee72366844f2fbfdea0041e5)
 
-[January 11th, 2024] **Temporal and higher-order networks** ([Slides](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC))
+## [January 11th, 2024] **Temporal and higher-order networks** ([Slides](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC))
 - [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en)
 
-[December 7th, 2023] **Graph signal processing** 
+## [December 7th, 2023] **Graph signal processing** 
 - [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md#graph-signal-processing-introduction-and-research-at-sps), [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) 
 
     <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
@@ -98,7 +98,7 @@ Coming soon...
     </a>
 
 
-[November 9th, 2023] **Graph neural networks** 
+## [November 9th, 2023] **Graph neural networks** 
 - [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md#explainable-graph-machine-learning--challenges-and-solutions), [Megha Khosla](https://khosla.github.io/)
 
     <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
@@ -127,7 +127,7 @@ Coming soon...
     </a>
 
 
-[October 5th, 2023] **Network representation and inference** 
+## [October 5th, 2023] **Network representation and inference** 
 - [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md#geometric-representations-of-complementarity-driven-networks), [Maksim Kitsak](https://www.maksimkitsak.com/)
 
     <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">

@@ -18,7 +18,18 @@ Coming soon...
 # Past Talks
 
 [July 11th, 2024] **Special session** 
-- [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) <button style="background-color:red; border-color:black; color:white" href="../slides/20240711_money.pdf">Slides</button> (<a href="../slides/20240711_money.pdf" target="_blank">Slides</a>) <button style="background-color:blue; border-color:black; color:white" href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi">Recording</button> ([Recording](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi))
+- [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
+    <a href="../slides/20240711_money.pdf" 
+       style="background-color: #A92D12; 
+              border: none; 
+              color: white;"
+       Slides
+       <a href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi" 
+       style="background-color: #3436C9; 
+              border: none; 
+              color: white;"
+       Recording
+    </a> <button style="background-color:red; border-color:black; color:white" href="../slides/20240711_money.pdf">Slides</button> (<a href="../slides/20240711_money.pdf" target="_blank">Slides</a>) <button style="background-color:blue; border-color:black; color:white" href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi">Recording</button> ([Recording](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi))
 - [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#mixup-for-augmenting-data-in-myriad-scenarios), [Madeline Navarro](https://scholar.google.com/citations?user=LJxDdfMAAAAJ&hl=en) (<a href="../slides/20240711_navarro.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi))
 - [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md#exploiting-the-structure-of-two-graphs-with-graph-neural-networks), [Víctor Manuel Tenorio Gómez](https://gestion2.urjc.es/pdi/ver/victor.tenorio) (<a href="../slides/20240711_tenorio.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi))
 

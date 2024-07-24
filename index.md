@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome! This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
+**Welcome!** This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
 
 The seminar takes place every month and comprises 2/3 talks:
 - One long talk + Q&A (45min)

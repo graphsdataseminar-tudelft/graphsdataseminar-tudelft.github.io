@@ -18,9 +18,9 @@ Coming soon...
 # Past Talks
 
 [July 11th, 2024] **Special session** 
-- [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md), Rohan Thekkemarickal Money (<a href="../slides/20240711_money.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi))
-- [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md), Madeline Navarro (<a href="../slides/20240711_navarro.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi))
-- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md), Víctor Manuel Tenorio Gómez (<a href="../slides/20240711_tenorio.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi))
+- [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#Online-learning-of-nonlinear-and-dynamic-graphs), Rohan Thekkemarickal Money (<a href="../slides/20240711_money.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi))
+- [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#Mixup-for-augmenting-data-in-myriad-scenarios), Madeline Navarro (<a href="../slides/20240711_navarro.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi))
+- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md#exploiting-the-structure-of-two-graphs-with-graph-neural-networks), Víctor Manuel Tenorio Gómez (<a href="../slides/20240711_tenorio.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi))
 
 
 [May 2nd, 2024] **System identification**

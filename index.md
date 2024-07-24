@@ -22,19 +22,25 @@ Coming soon...
     <a class="btn" href="../slides/20240711_money.pdf" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
       Slides
     </a>
-    <button onclick="location.href='../slides/20240711_money.pdf'" type="button" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
-         Slides
-    </button>
-    <a href="../slides/20240711_money.pdf" class="button" style="background-color: red; border-color:black; color: white;">
-       Slides
+    <a class="btn" href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
     </a>
-    <a href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi" style="background-color: blue; border-color:black; color: white;">
-       Recording
-    </a>
-    <button style="background-color:red; border-color:black; color:white" href="../slides/20240711_money.pdf">Slides</button> (<a href="../slides/20240711_money.pdf" target="_blank">Slides</a>) <button style="background-color:blue; border-color:black; color:white" href="https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi">Recording</button> ([Recording](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi))
-- [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#mixup-for-augmenting-data-in-myriad-scenarios), [Madeline Navarro](https://scholar.google.com/citations?user=LJxDdfMAAAAJ&hl=en) (<a href="../slides/20240711_navarro.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi))
-- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md#exploiting-the-structure-of-two-graphs-with-graph-neural-networks), [Víctor Manuel Tenorio Gómez](https://gestion2.urjc.es/pdi/ver/victor.tenorio) (<a href="../slides/20240711_tenorio.pdf" target="_blank">Slides</a>) ([Recording](https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi))
 
+- [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#mixup-for-augmenting-data-in-myriad-scenarios), [Madeline Navarro](https://scholar.google.com/citations?user=LJxDdfMAAAAJ&hl=en) 
+<a class="btn" href="../slides/20240711_navarro.pdf" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+  Slides
+</a>
+<a class="btn" href="https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+  Recording
+</a>
+
+- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md#exploiting-the-structure-of-two-graphs-with-graph-neural-networks), [Víctor Manuel Tenorio Gómez](https://gestion2.urjc.es/pdi/ver/victor.tenorio) 
+<a class="btn" href="../slides/20240711_tenorio.pdf" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+  Slides
+</a>
+<a class="btn" href="https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+  Recording
+</a>
 
 [May 2nd, 2024] **System identification**
 - [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), [Michel Verhaegen](https://www.dcsc.tudelft.nl/~mverhaegen/)

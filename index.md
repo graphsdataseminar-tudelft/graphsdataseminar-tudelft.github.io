@@ -19,6 +19,9 @@ Coming soon...
 
 [July 11th, 2024] **Special session** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
+    <a class="btn" href="../slides/20240711_money.pdf" style="background-color: green; border-color:black; color: white;">
+      Slides
+    </a>
     <button onclick="location.href='../slides/20240711_money.pdf'" type="button" style="background-color: green; border-color:black; color: white;">
          Slides
     </button>

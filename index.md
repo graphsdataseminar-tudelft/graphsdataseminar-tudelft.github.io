@@ -64,7 +64,12 @@ Coming soon...
 - [**Faster and Transferable Urban Drainage Simulations with Graph Neural Networks**](./past_talks/20240215.md#faster-and-transferable-urban-drainage-simulations-with-graph-neural-networks), [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44)
 - [**Relating complex network theory metrics with discolouration activity in water distribution systems**](./past_talks/20240215.md#relating-complex-network-theory-metrics-with-discolouration-activity-in-water-distribution-systems), [Greg Kyritsakas](https://www.tudelft.nl/staff/g.kyritsakas/?cHash=5cd63c7cee72366844f2fbfdea0041e5)
 
-## [January 11th, 2024] **Temporal and higher-order networks** ([Slides](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC))
+## [January 11th, 2024] **Temporal and higher-order networks** 
+
+  <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+    Slides
+  </a>
+
 - [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en)

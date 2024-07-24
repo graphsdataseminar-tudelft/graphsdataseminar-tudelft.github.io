@@ -8,7 +8,9 @@ The seminar takes place every month and comprises 2/3 talks:
 - One long talk + Q&A (45min)
 - One/two shorter talks + Q&A (targeting a specific topic/research) (20 min).
 
-You can sign up [here](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to receive updates via email about the seminar.
+<a class="btn" href="https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+  Sign up
+</a> to receive updates via email about the seminar.
 
 
 # Upcoming Talks
@@ -67,26 +69,91 @@ Coming soon...
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en)
 
-[December 7th, 2023] **Graph signal processing** ([Slides](https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT))
-- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md#graph-signal-processing-introduction-and-research-at-sps), [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) ([Recording](https://www.youtube.com/watch?v=O6rxAIbqqMo&ab_channel=Elvinisufi))
-- [**Learning (Time-Varying) Graphs from (Online) Data**](./past_talks/20231207.md#learning-time-varying-graphs-from-online-data), [Alberto Natali](https://scholar.google.it/citations?user=NC9UHssAAAAJ&hl=en) ([Recording](https://www.youtube.com/watch?v=kCUVcRBg0nc&ab_channel=Elvinisufi))
-- [**Uncovering Temporal Networks through Tensor-like Decompositions**](./past_talks/20231207.md#uncovering-temporal-networks-through-tensor-like-decompositions), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en) ([Recording](https://www.youtube.com/watch?v=wUy4S24fjoA&ab_channel=Elvinisufi))
+[December 7th, 2023] **Graph signal processing** 
+- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md#graph-signal-processing-introduction-and-research-at-sps), [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) 
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=O6rxAIbqqMo&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
+
+- [**Learning (Time-Varying) Graphs from (Online) Data**](./past_talks/20231207.md#learning-time-varying-graphs-from-online-data), [Alberto Natali](https://scholar.google.it/citations?user=NC9UHssAAAAJ&hl=en)
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=kCUVcRBg0nc&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
+
+- [**Uncovering Temporal Networks through Tensor-like Decompositions**](./past_talks/20231207.md#uncovering-temporal-networks-through-tensor-like-decompositions), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=wUy4S24fjoA&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
 
 
-[November 9th, 2023] **Graph neural networks** ([Slides](https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF))
-- [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md#explainable-graph-machine-learning--challenges-and-solutions), [Megha Khosla](https://khosla.github.io/) ([Recording](https://www.youtube.com/watch?v=J5UDZ3Ln7ac&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6))
+[November 9th, 2023] **Graph neural networks** 
+- [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md#explainable-graph-machine-learning--challenges-and-solutions), [Megha Khosla](https://khosla.github.io/)
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=J5UDZ3Ln7ac&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
+
 - [**Multi-label Node Classification On Graph-Structured Data**](./past_talks/20231109.md#multi-label-node-classification-on-graph-structured-data), [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en)
- ([Recording](https://www.youtube.com/watch?v=eGjqgAKEf1o&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=8&ab_channel=Elvinisufi))
-- [**Self-Attention Message Passing for Contrastive Few-Shot Image Classification**](./past_talks/20231109.md#self-attention-message-passing-for-contrastive-few-shot-image-classification), [Ojas Shirekar](https://scholar.google.com/citations?user=faROrSgAAAAJ&hl=en) ([Recording](https://www.youtube.com/watch?v=1RyKfa002z8&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6&ab_channel=Elvinisufi))
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=eGjqgAKEf1o&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=8&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
+
+- [**Self-Attention Message Passing for Contrastive Few-Shot Image Classification**](./past_talks/20231109.md#self-attention-message-passing-for-contrastive-few-shot-image-classification), [Ojas Shirekar](https://scholar.google.com/citations?user=faROrSgAAAAJ&hl=en) 
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=1RyKfa002z8&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
 
 
+[October 5th, 2023] **Network representation and inference** 
+- [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md#geometric-representations-of-complementarity-driven-networks), [Maksim Kitsak](https://www.maksimkitsak.com/)
 
-[October 5th, 2023] **Network representation and inference** ([Slides](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS))
-- [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md#geometric-representations-of-complementarity-driven-networks), [Maksim Kitsak](https://www.maksimkitsak.com/) ([Recording](https://www.youtube.com/watch?v=18HG0KE6YrQ&ab_channel=Elvinisufi))
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=18HG0KE6YrQ&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
+
 - [**Learning Graphs and Simplicial Complexes From Data**](./past_talks/20231005.md#learning-graphs-and-simplicial-complexes-from-data), [Andrei Buciulea Vlas](https://scholar.google.com/citations?user=66U0mA0AAAAJ)
- ([Recording](https://www.youtube.com/watch?v=VwD0u1zBYxo))
-- [**System Identification for Temporal Networks**](./past_talks/20231005.md#system-identification-for-temporal-networks), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) ([Recording](https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi))
 
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=VwD0u1zBYxo" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
+
+- [**System Identification for Temporal Networks**](./past_talks/20231005.md#system-identification-for-temporal-networks), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) 
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+    <a class="btn" href="https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
+      Recording
+    </a>
 
 
 # Organizers

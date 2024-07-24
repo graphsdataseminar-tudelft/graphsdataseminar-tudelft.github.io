@@ -66,13 +66,23 @@ Coming soon...
 
 ## [January 11th, 2024] **Temporal and higher-order networks** 
 
+- [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
+
     <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
       Slides
     </a>
 
-- [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
+
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en)
+
+    <a class="btn" href="https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC" style="background-color: green; border-color:black; color: white; padding: 3px 3px;">
+      Slides
+    </a>
 
 ## [December 7th, 2023] **Graph signal processing** 
 - [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md#graph-signal-processing-introduction-and-research-at-sps), [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) 

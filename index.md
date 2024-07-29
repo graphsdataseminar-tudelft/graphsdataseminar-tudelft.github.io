@@ -20,13 +20,13 @@ Coming soon...
 ## [July 11th, 2024] **Special session - Learning with graphs** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
 
-    [ [<span style="color:red">Slides</span>
+    [ [<span style="color:#8B0000">Slides</span>
     ](../slides/20240711_money.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi) ]
 
 - [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#mixup-for-augmenting-data-in-myriad-scenarios), [Madeline Navarro](https://scholar.google.com/citations?user=LJxDdfMAAAAJ&hl=en) 
 
-    [ [<span style="color:red">Slides</span>
+    [ [<span style="color:#8B0000">Slides</span>
     ](../slides/20240711_navarro.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi) ]
 

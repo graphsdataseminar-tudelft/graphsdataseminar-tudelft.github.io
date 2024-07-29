@@ -57,17 +57,17 @@ Coming soon...
 
 - [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
 
-    [ [<span style="color:red">Slides</span>
+    [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC) ] 
 
 - [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)
 
-    [ [<span style="color:red">Slides</span>
+    [ [<span style="color:#C41E3A">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC) ] 
 
 - [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en)
 
-    [ [<span style="color:red">Slides</span>
+    [ [<span style="color:#8B0000">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC) ] 
 
 ## [December 7th, 2023] **Graph signal processing** 

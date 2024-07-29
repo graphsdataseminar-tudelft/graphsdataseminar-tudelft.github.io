@@ -8,9 +8,7 @@ The seminar takes place every month and comprises 2/3 talks:
 - One long talk + Q&A (45min)
 - One/two shorter talks + Q&A (targeting a specific topic/research) (20 min).
 
-<a class="btn" href="https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u" style="background-color: red; border-color:black; color: white; padding: 3px 3px;">
-  Sign up
-</a> to receive updates via email about the seminar.
+[**Sign up**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to receive updates via email about the seminar.
 
 
 # Upcoming Talks

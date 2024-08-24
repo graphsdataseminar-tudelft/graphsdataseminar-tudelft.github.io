@@ -13,7 +13,10 @@ The seminar takes place every month and comprises 2/3 talks:
 
 # Upcoming Talks
 
-Coming soon...
+## [October 3rd, 2024] **Graph generation for chemical engineering**
+- [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
+
+
 
 # Past Talks
 

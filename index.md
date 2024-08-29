@@ -11,7 +11,7 @@ The seminar takes place every month and comprises 2/3 talks:
 [**Sign up**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to receive updates via email about the seminar.
 
 
-# Upcoming Talks
+# **Upcoming Talks**
 
 ## [October 3rd, 2024] **Graph generation for chemical engineering**
 - [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
@@ -26,7 +26,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-# Past Talks
+# **Past Talks**
 
 ## [July 11th, 2024] **Special session - Learning with graphs** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 

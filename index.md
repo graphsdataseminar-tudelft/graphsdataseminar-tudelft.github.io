@@ -142,7 +142,7 @@ The seminar takes place every month and comprises 2/3 talks:
     ](https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi) ]
 
 
-# Organizers
+# **Organizers**
 
 - [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
 - [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)

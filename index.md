@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<p float="middle">
-  <img src="images/Aidro_Lab.png" width="100" />
-  <img src="images/TUDelft_logo_rgb.png" width="100" /> 
-</p>
 
 **Welcome!** This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
 
@@ -138,6 +134,12 @@ The seminar takes place every month and comprises 2/3 talks:
 - [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
 - [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)
 - [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) (former organizer)
+
+
+<p float="middle">
+  <img src="images/Aidro_Lab.png" width="49%" />
+  <img src="images/TUDelft_logo_rgb.png" width="49%" /> 
+</p>
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

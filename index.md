@@ -135,7 +135,7 @@ The seminar takes place every month and comprises 2/3 talks:
     ](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=VwD0u1zBYxo) ]
 
-- [**System Identification for Temporal Networks**](./past_talks/20231005.md#system-identification-for-temporal-networks), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) 
+- [**System Identification for Temporal Networks**](./past_talks/20231005.md#system-identification-for-temporal-networks), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi) ]

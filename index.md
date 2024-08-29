@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![aidrolab-logo](images/Aidro_Lab.png) ![tu-delft-logo](images/TUDelft_logo_rgb.png)
+
 **Welcome!** This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
 
 The seminar takes place every month and comprises 2/3 talks:

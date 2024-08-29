@@ -29,20 +29,17 @@ The seminar takes place every month and comprises 2/3 talks:
 # **Past Talks**
 
 ## [July 11th, 2024] **Special session - Learning with graphs** 
-- [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en) 
-
+- [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en)  \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20240711_money.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=3QFQ1rdJhH4&ab_channel=Elvinisufi) ]
 
-- [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#mixup-for-augmenting-data-in-myriad-scenarios), [Madeline Navarro](https://scholar.google.com/citations?user=LJxDdfMAAAAJ&hl=en) 
-
+- [**Mixup for augmenting data in myriad scenarios**](./past_talks/20240711.md#mixup-for-augmenting-data-in-myriad-scenarios), [Madeline Navarro](https://scholar.google.com/citations?user=LJxDdfMAAAAJ&hl=en)  \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20240711_navarro.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=YtEAyeUZk9g&ab_channel=Elvinisufi) ]
 
-- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md#exploiting-the-structure-of-two-graphs-with-graph-neural-networks), [Víctor Manuel Tenorio Gómez](https://gestion2.urjc.es/pdi/ver/victor.tenorio) 
-
+- [**Exploiting the Structure of Two Graphs with Graph Neural Networks**](./past_talks/20240711.md#exploiting-the-structure-of-two-graphs-with-graph-neural-networks), [Víctor Manuel Tenorio Gómez](https://gestion2.urjc.es/pdi/ver/victor.tenorio)  \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20240711_tenorio.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi) ]
@@ -66,71 +63,60 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [January 11th, 2024] **Temporal and higher-order networks** 
 
-- [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang)
-
+- [**Temporal Network Prediction and Interpretation**](./past_talks/20240111.md#temporal-network-prediction-and-interpretation), [Huijuan Wang](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/huijuan-wang) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC) ] 
 
-- [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)
-
+- [**Unrolling of Simplicial ElasticNet for Edge Flow Signal Reconstruction**](./past_talks/20240111.md#unrolling-of-simplicial-elasticnet-for-edge-flow-signal-reconstruction), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC) ] 
 
-- [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en)
-
+- [**Temporal-topological properties of higher-order evolving networks**](./past_talks/20240111.md#temporal-topological-properties-of-higher-order-evolving-networks), [Alberto Ceria](https://scholar.google.com/citations?user=Bag5mW4AAAAJ&hl=en) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/EFBE4vLunF3JYaC) ] 
 
 ## [December 7th, 2023] **Graph signal processing** 
-- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md#graph-signal-processing-introduction-and-research-at-sps), [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3) 
-
+- [**Graph Signal Processing: Introduction and Research at SPS**](./past_talks/20231207.md#graph-signal-processing-introduction-and-research-at-sps), [Geert Leus](https://sps.ewi.tudelft.nl/People/bio.php?id=3)  \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=O6rxAIbqqMo&ab_channel=Elvinisufi) ]
 
-- [**Learning (Time-Varying) Graphs from (Online) Data**](./past_talks/20231207.md#learning-time-varying-graphs-from-online-data), [Alberto Natali](https://scholar.google.it/citations?user=NC9UHssAAAAJ&hl=en)
-
+- [**Learning (Time-Varying) Graphs from (Online) Data**](./past_talks/20231207.md#learning-time-varying-graphs-from-online-data), [Alberto Natali](https://scholar.google.it/citations?user=NC9UHssAAAAJ&hl=en) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=kCUVcRBg0nc&ab_channel=Elvinisufi) ]
 
-- [**Uncovering Temporal Networks through Tensor-like Decompositions**](./past_talks/20231207.md#uncovering-temporal-networks-through-tensor-like-decompositions), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
-
+- [**Uncovering Temporal Networks through Tensor-like Decompositions**](./past_talks/20231207.md#uncovering-temporal-networks-through-tensor-like-decompositions), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/UoTuXag75v7jptT) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=wUy4S24fjoA&ab_channel=Elvinisufi) ]
 
 
 ## [November 9th, 2023] **Graph neural networks** 
-- [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md#explainable-graph-machine-learning--challenges-and-solutions), [Megha Khosla](https://khosla.github.io/)
-
+- [**Explainable Graph Machine Learning : Challenges and Solutions**](./past_talks/20231109.md#explainable-graph-machine-learning--challenges-and-solutions), [Megha Khosla](https://khosla.github.io/) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=J5UDZ3Ln7ac&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6) ]
 
-- [**Multi-label Node Classification On Graph-Structured Data**](./past_talks/20231109.md#multi-label-node-classification-on-graph-structured-data), [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en)
-
+- [**Multi-label Node Classification On Graph-Structured Data**](./past_talks/20231109.md#multi-label-node-classification-on-graph-structured-data), [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=eGjqgAKEf1o&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=8&ab_channel=Elvinisufi) ]
 
 
-- [**Self-Attention Message Passing for Contrastive Few-Shot Image Classification**](./past_talks/20231109.md#self-attention-message-passing-for-contrastive-few-shot-image-classification), [Ojas Shirekar](https://scholar.google.com/citations?user=faROrSgAAAAJ&hl=en) 
-
+- [**Self-Attention Message Passing for Contrastive Few-Shot Image Classification**](./past_talks/20231109.md#self-attention-message-passing-for-contrastive-few-shot-image-classification), [Ojas Shirekar](https://scholar.google.com/citations?user=faROrSgAAAAJ&hl=en)  \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/LiEThOeFRiMwyrF) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=1RyKfa002z8&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=6&ab_channel=Elvinisufi) ]
 
 
 ## [October 5th, 2023] **Network representation and inference** 
-- [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md#geometric-representations-of-complementarity-driven-networks), [Maksim Kitsak](https://www.maksimkitsak.com/)
-
+- [**Geometric Representations of Complementarity-Driven Networks**](./past_talks/20231005.md#geometric-representations-of-complementarity-driven-networks), [Maksim Kitsak](https://www.maksimkitsak.com/) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=18HG0KE6YrQ&ab_channel=Elvinisufi) ]
 
-- [**Learning Graphs and Simplicial Complexes From Data**](./past_talks/20231005.md#learning-graphs-and-simplicial-complexes-from-data), [Andrei Buciulea Vlas](https://scholar.google.com/citations?user=66U0mA0AAAAJ)
-
+- [**Learning Graphs and Simplicial Complexes From Data**](./past_talks/20231005.md#learning-graphs-and-simplicial-complexes-from-data), [Andrei Buciulea Vlas](https://scholar.google.com/citations?user=66U0mA0AAAAJ) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=VwD0u1zBYxo) ]

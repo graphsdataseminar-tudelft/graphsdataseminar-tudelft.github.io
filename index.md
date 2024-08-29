@@ -130,10 +130,10 @@ The seminar takes place every month and comprises 2/3 talks:
 
 # **Organizers**
 
-- [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
-- [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
-- [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)
-- [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) (former organizer)
+- <img src="images/elvin.jpg" width="200"/> [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
+- <img src="images/mohammad.jpg" width="200"/> [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
+- <img src="images/andrea.jpg" width="200"/> [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)
+- <img src="images/alex.jpg" width="200"/> [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) (former organizer)
 
 
 <p float="middle">

@@ -135,7 +135,7 @@ The seminar takes place every month and comprises 2/3 talks:
     <div class="organizer big-organizer">
       <div class="organizer-header">
         <img src="images/elvin.jpg" alt="Elvin Isufi" class="organizer-photo big-photo">
-        <strong>Elvin Isufi</strong>
+        <strong><a href="https://sites.google.com/site/elvinisufihp/">Elvin Isufi</a></strong>
       </div>
     </div>
     <div class="organizer big-organizer">

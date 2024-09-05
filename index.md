@@ -131,6 +131,36 @@ The seminar takes place every month and comprises 2/3 talks:
 # **Organizers**
 
   <div class="organizers-container">
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/elvin.jpg" alt="Elvin Isufi" class="organizer-photo big-photo">
+        <strong><a href="https://sites.google.com/site/elvinisufihp/">Elvin Isufi</a></strong>
+      </div>
+    </div>
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/mohammad.jpg" alt="Mohammad Sabbaqi" class="organizer-photo big-photo">
+        <strong><a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi">Mohammad Sabbaqi</a></strong>
+      </div>
+    </div>
+    <div class="organizers-container">
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/andrea.jpg" alt="Andrea Cavallo" class="organizer-photo big-photo">
+        <strong><a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo">Andrea Cavallo</a></strong>
+      </div>
+    </div>
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/alex.jpg" alt="Alexander Garzón" class="organizer-photo big-photo">
+        <p><strong><a href="https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44">Alexander Garzón</a></strong><br>(previous organizer)
+        </p>
+      </div>
+    </div>
+
+
+
+  <!-- <div class="organizers-container">
     <div class="organizer">
       <div class="organizer-header">
         <img src="images/elvin.jpg" alt="Elvin Isufi" class="organizer-photo">
@@ -156,7 +186,7 @@ The seminar takes place every month and comprises 2/3 talks:
         </p>
       </div>
     </div>
-  </div>
+  </div> -->
 
 
 

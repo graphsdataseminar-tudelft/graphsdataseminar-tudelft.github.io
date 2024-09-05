@@ -153,7 +153,7 @@ The seminar takes place every month and comprises 2/3 talks:
       <div class="organizer-header">
         <img src="images/alex.jpg" alt="Alexander Garzón" class="organizer-photo">
         <strong><a href="https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44">Alexander Garzón</a></strong>
-        (previous organizer)
+        <p>(previous organizer)</p>
       </div>
     </div>
   </div>

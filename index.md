@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 380px; margin-right: 100px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+    <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 200px; margin-right: 100px;">
     <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 200px;">
 </div>
 
@@ -167,10 +167,10 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-<p float="middle">
+<!-- <p float="middle">
   <img src="images/Aidro_Lab.png" width="49%" />
   <img src="images/TUDelft_logo_rgb.png" width="49%" /> 
-</p>
+</p> -->
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
-    <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 200px; margin-right: 100px;">
-    <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 200px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 10px; margin-bottom: 10px;">
+    <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 300px; margin-right: 100px;">
+    <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 300px;">
 </div>
 
 

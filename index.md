@@ -4,7 +4,7 @@ layout: default
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
     <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 380px; margin-right: 100px;">
-    <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 200; margin-right: 100px;">
+    <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 100;">
 </div>
 
 

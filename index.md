@@ -148,6 +148,7 @@ The seminar takes place every month and comprises 2/3 talks:
         <strong><a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi">Mohammad Sabbaqi</a></strong>
       </div>
     </div>
+    </div>
     <div class="organizers-container">
     <div class="organizer big-organizer">
       <div class="organizer-header">
@@ -161,6 +162,7 @@ The seminar takes place every month and comprises 2/3 talks:
         <p><strong><a href="https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44">Alexander Garzón</a></strong><br>(previous organizer)
         </p>
       </div>
+    </div>
     </div>
 
 

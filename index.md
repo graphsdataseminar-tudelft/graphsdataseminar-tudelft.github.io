@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+    <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 380px; margin-right: 100px;">
+    <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 200; margin-right: 100px;">
+</div>
+
 
 **Welcome!** This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
 
@@ -159,34 +164,6 @@ The seminar takes place every month and comprises 2/3 talks:
     </div>
 
 
-
-  <!-- <div class="organizers-container">
-    <div class="organizer">
-      <div class="organizer-header">
-        <img src="images/elvin.jpg" alt="Elvin Isufi" class="organizer-photo">
-        <strong><a href="https://sites.google.com/site/elvinisufihp/">Elvin Isufi</a></strong>
-      </div>
-    </div>
-    <div class="organizer">
-      <div class="organizer-header">
-        <img src="images/mohammad.jpg" alt="Mohammad Sabbaqi" class="organizer-photo">
-        <strong><a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi">Mohammad Sabbaqi</a></strong>
-      </div>
-    </div>
-    <div class="organizer">
-      <div class="organizer-header">
-        <img src="images/andrea.jpg" alt="Andrea Cavallo" class="organizer-photo">
-        <strong><a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo">Andrea Cavallo</a></strong>
-      </div>
-    </div>
-    <div class="organizer">
-      <div class="organizer-header">
-        <img src="images/alex.jpg" alt="Alexander Garzón" class="organizer-photo">
-        <p><strong><a href="https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44">Alexander Garzón</a></strong><br>(previous organizer)
-        </p>
-      </div>
-    </div>
-  </div> -->
 
 
 

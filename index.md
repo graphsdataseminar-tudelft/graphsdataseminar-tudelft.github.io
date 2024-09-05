@@ -164,7 +164,7 @@ The seminar takes place every month and comprises 2/3 talks:
     </div>
 
 
-
+<p></p>
 
 
 <!-- <p float="middle">

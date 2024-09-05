@@ -145,7 +145,9 @@ The seminar takes place every month and comprises 2/3 talks:
       </div>
     </div>
   </div>
-  <div class="wide-container">
+
+
+<div class="wide-container">
   <div class="organizers-container">
     <div class="organizer big-organizer">
       <div class="organizer-header">

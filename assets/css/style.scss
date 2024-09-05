@@ -2,3 +2,61 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+
+.wide-container {
+    width: 140%; /* Increase width to 140% */
+    margin-left: -20%; /* Offset the increased width to keep it centered */
+  }
+  
+  .organizers-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .organizer {
+    flex: 1 1 calc(25% - 20px); /* Four per row */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 30px; /* Add more white space between rows */
+  }
+  
+  .big-organizer {
+    flex: 1 1 calc(50% - 20px); /* Two per row */
+    margin-bottom: 30px; /* Add more white space between rows */
+  }
+  
+  .organizer-placeholder {
+    flex: 1 1 calc(25% - 20px); /* Same size as other organizers */
+  }
+  
+  .organizer-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .organizer-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+  }
+  
+  .big-photo {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .organizer-bio {
+    max-width: 100%;
+  }
+  
+  .organizer-bio p {
+    margin: 0;
+  }
+  
+  

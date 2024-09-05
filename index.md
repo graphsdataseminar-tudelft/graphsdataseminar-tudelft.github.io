@@ -130,10 +130,43 @@ The seminar takes place every month and comprises 2/3 talks:
 
 # **Organizers**
 
-- <img src="images/elvin.jpg" width="100"/> [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
+<div class="wide-container">
+  <div class="organizers-container">
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/elvin.jpg" alt="Elvin Isufi" class="organizer-photo big-photo">
+        <strong>Elvin Isufi</strong>
+      </div>
+    </div>
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/mohammad.jpg" alt="Mohammad Sabbaqi" class="organizer-photo big-photo">
+        <strong>Mohammad Sabbaqi</strong>
+      </div>
+    </div>
+  </div>
+  <div class="wide-container">
+  <div class="organizers-container">
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/andrea.jpg" alt="Andrea Cavallo" class="organizer-photo big-photo">
+        <strong>Andrea Cavallo</strong>
+      </div>
+    </div>
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
+        <img src="images/alex.jpg" alt="Alexander Garzón" class="organizer-photo big-photo">
+        <strong>Alexander Garzón</strong>
+      </div>
+    </div>
+  </div>
+
+
+
+<!-- - <img src="images/elvin.jpg" width="100"/> [Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
 - <img src="images/mohammad.jpg" width="100"/> [Mohammad Sabbaqi](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/mohammad-sabbaqi)
 - <img src="images/andrea.jpg" width="100"/> [Andrea Cavallo](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo)
-- <img src="images/alex.jpg" width="100"/> [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) (former organizer)
+- <img src="images/alex.jpg" width="100"/> [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) (former organizer) -->
 
 
 <p float="middle">

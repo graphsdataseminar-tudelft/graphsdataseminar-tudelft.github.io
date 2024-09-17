@@ -20,7 +20,7 @@ The seminar takes place every month and comprises 2/3 talks:
 # **Upcoming Talks**
 
 ## [October 3rd, 2024] **Graph generation for chemical engineering**
-**Location:** Turing 0.E420
+**Location:** Turing 0.E420 - building 28
 - [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
 - [**Generative artificial intelligence for control structure prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/)
 - [**Process Design through Deep Reinforcement Learning and Graph Neural Networks**](./past_talks/20241003.md#process-design-through-deep-reinforcement-learning-and-graph-neural-networks), [Qinghe Gao](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/process-systems-engineering/people/qinghe-gao)

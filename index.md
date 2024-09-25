@@ -16,6 +16,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 [**Register here**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to attend the next seminar.
 
+---
 
 # **Upcoming Talks**
 
@@ -33,7 +34,7 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [December 5th, 2024] 
 - [**Approximations for Kemeny's constant for several families of graphs and real-world networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij)
 
-
+---
 
 # **Past Talks**
 
@@ -54,7 +55,7 @@ The seminar takes place every month and comprises 2/3 talks:
     ](https://www.youtube.com/watch?v=KXfvu2maXEM&ab_channel=Elvinisufi) ]
 
 ## [May 2nd, 2024] **System identification**
-- [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), [Michel Verhaegen](https://www.dcsc.tudelft.nl/~mverhaegen/)
+- [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), [Michel Verhaegen](https://www.dcsc.tudelft.nl/~mverhaegen/) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20240502_verhaegen.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=kyIR-46D5l4&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=26) ]
@@ -160,6 +161,7 @@ The seminar takes place every month and comprises 2/3 talks:
     ](https://surfdrive.surf.nl/files/index.php/s/dbSFaD1mbyoxHpS) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=Cj6y-D43ybQ&ab_channel=Elvinisufi) ]
 
+---
 
 # **Organizers**
 

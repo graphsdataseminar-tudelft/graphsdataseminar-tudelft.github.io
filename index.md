@@ -55,6 +55,9 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [May 2nd, 2024] **System identification**
 - [**Identification of Networks of Dynamic Systems**](./past_talks/20240502.md), [Michel Verhaegen](https://www.dcsc.tudelft.nl/~mverhaegen/)
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240502_verhaegen.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=kyIR-46D5l4&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=26) ]
 
 ## [April 4th, 2024] **PDEs and graphs**
 - [**Graphs and Differential Equations in Machine Learning**](./past_talks/20240404.md#graphs-and-differential-equations-in-machine-learning), [Yves van Gennip](https://scholar.google.com/citations?user=ZV9trHAAAAAJ&hl=en)
@@ -66,24 +69,29 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [March 14th, 2024] **Higher-order structures**
 - [**Geometry Processing: Discretization, Learning and Analysis**](./past_talks/20240314.md#geometry-processing-discretization-learning-and-analysis), [Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus/)
 - [**Hodge-compositional Edge Gaussian Processes**](./past_talks/20240314.md#hodge-compositional-edge-gaussian-processes), [Maosheng Yang](https://scholar.google.dk/citations?user=-ka_yNQAAAAJ&hl=en) \
-    [ [<span style="color:green">Recording</span>
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240314_yang.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=qzuViV-Qk88&ab_channel=Elvinisufi) ]
 
 - [**DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds**](./past_talks/20240314.md#deltaconv-anisotropic-operators-for-geometric-deep-learning-on-point-clouds), [Ruben Wiersma](https://rubenwiersma.nl/) \
-    [ [<span style="color:green">Recording</span>
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240314_wiersma.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=r8uGsmRQO8M&list=PLdzxeAZte_YvxvSCBiQyDdyO8muNHWnLr&index=8&ab_channel=Elvinisufi) ]
 
 ## [February 15th, 2024] **Water networks**
 - [**Towards foundational (meta)models of water distribution networks with Graph Neural Networks**](./past_talks/20240215.md#towards-foundational-metamodels-of-water-distribution-networks-with-graph-neural-networks), [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/staff-sanitary-engineering/dr-riccardo-taormina) \
-    [ [<span style="color:green">Recording</span>
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240215_taormina.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=fMsdNcRtbU8&ab_channel=Elvinisufi) ]
 
 - [**Faster and Transferable Urban Drainage Simulations with Graph Neural Networks**](./past_talks/20240215.md#faster-and-transferable-urban-drainage-simulations-with-graph-neural-networks), [Alexander Garzón](https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44) \
-    [ [<span style="color:green">Recording</span>
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240215_garzon.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=O-eDIP2Ka9Q&ab_channel=Elvinisufi) ]
 
 - [**Relating complex network theory metrics with discolouration activity in water distribution systems**](./past_talks/20240215.md#relating-complex-network-theory-metrics-with-discolouration-activity-in-water-distribution-systems), [Greg Kyritsakas](https://www.tudelft.nl/staff/g.kyritsakas/?cHash=5cd63c7cee72366844f2fbfdea0041e5) \
-    [ [<span style="color:green">Recording</span>
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240215_kyritsakas.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=KUZDvlntG78&ab_channel=Elvinisufi) ]
 
 

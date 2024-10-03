@@ -14,17 +14,11 @@ The seminar takes place every month and comprises 2/3 talks:
 - One long talk + Q&A (45min)
 - One/two shorter talks + Q&A (targeting a specific topic/research) (20 min).
 
-[**Register here**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to attend the next seminar.
+[**Register here**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to attend the next seminar and receive email updates about the seminar.
 
 ---
 
 # **Upcoming Talks**
-
-## [October 3rd, 2024] **Graph generation for chemical engineering**
-**Location:** Turing 0.E420 - building 28
-- [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
-- [**Generative artificial intelligence for control structure prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/)
-- [**Process Design through Deep Reinforcement Learning and Graph Neural Networks**](./past_talks/20241003.md#process-design-through-deep-reinforcement-learning-and-graph-neural-networks), [Qinghe Gao](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/process-systems-engineering/people/qinghe-gao)
 
 
 ## [November 7th, 2024] **Graph Neural Networks for Power Systems**
@@ -37,6 +31,15 @@ The seminar takes place every month and comprises 2/3 talks:
 ---
 
 # **Past Talks**
+
+
+## [October 3rd, 2024] **Graph generation for chemical engineering**
+- [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
+- [**Generative artificial intelligence for control structure prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/)
+- [**Process Design through Deep Reinforcement Learning and Graph Neural Networks**](./past_talks/20241003.md#process-design-through-deep-reinforcement-learning-and-graph-neural-networks), [Qinghe Gao](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/process-systems-engineering/people/qinghe-gao)
+
+
+
 
 ## [July 11th, 2024] **Special session - Learning with graphs** 
 - [**Online learning of nonlinear and dynamic graphs**](./past_talks/20240711.md#online-learning-of-nonlinear-and-dynamic-graphs), [Rohan Thekkemarickal Money](https://scholar.google.com/citations?user=JnkbP8EAAAAJ&hl=en)  \

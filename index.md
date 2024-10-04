@@ -36,7 +36,9 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [October 3rd, 2024] **Graph generation for chemical engineering**
 - [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
 - [**Generative artificial intelligence for control structure prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/)
-- [**Process Design through Deep Reinforcement Learning and Graph Neural Networks**](./past_talks/20241003.md#process-design-through-deep-reinforcement-learning-and-graph-neural-networks), [Qinghe Gao](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/process-systems-engineering/people/qinghe-gao)
+- [**Process Design through Deep Reinforcement Learning and Graph Neural Networks**](./past_talks/20241003.md#process-design-through-deep-reinforcement-learning-and-graph-neural-networks), [Qinghe Gao](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/process-systems-engineering/people/qinghe-gao) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241003_gao.pdf) ]
 
 
 
@@ -66,7 +68,8 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [April 4th, 2024] **PDEs and graphs**
 - [**Graphs and Differential Equations in Machine Learning**](./past_talks/20240404.md#graphs-and-differential-equations-in-machine-learning), [Yves van Gennip](https://scholar.google.com/citations?user=ZV9trHAAAAAJ&hl=en)
 - [**Inferring Time-Varying Signals over Graphs via SPDEs**](./past_talks/20240404.md#inferring-time-varying-signals-over-graphs-via-spdes), [Mohammad Sabbaqi](https://scholar.google.com/citations?user=5lnSQvEAAAAJ&hl=en) \
-    [ [<span style="color:green">Recording</span>
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20240404_sabbaqi.pdf) ] [ [<span style="color:green">Recording</span>
     ](https://www.youtube.com/watch?v=gsTkltliHbY&ab_channel=Elvinisufi) ]
 
 

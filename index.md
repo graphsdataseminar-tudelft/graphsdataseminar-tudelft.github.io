@@ -4,17 +4,17 @@ layout: default
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px; margin-bottom: 10px;">
     <img src="images/aidro_lab_wide.png" alt="AidroLab Logo" style="width: 300px; margin-right: 100px;">
-    <img src="images/TUDelft_logo_rgb.png" alt="TU Delft Logo" style="width: 300px;">
+    <img src="images/AI-Initiative-logo-rgb.png" alt="TU Delft Logo" style="width: 500px;">
 </div>
 
 
-**Welcome!** This is a series of seminars/talks bringing together people from all TU Delft doing research on Graphs and Data who could benefit from the interchange of ideas with colleagues on different topics.  
+**Welcome!** This seminar series brings together researchers from TU Delft working on Graphs and Data. 
 
 The seminar takes place every month and comprises 2/3 talks:
 - One long talk + Q&A (45min)
 - One/two shorter talks + Q&A (targeting a specific topic/research) (20 min).
 
-[**Register here**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) to attend the next seminar and receive email updates about the seminar.
+[ [**Register here**](https://forms.office.com/pages/responsepage.aspx?id=TVJuCSlpMECM04q0LeCIewbAA7RP87dNtvNVETSiRPZUODZGSzBRM1FTM09JWjlLTlVTVTgzRjFKUi4u) ] to attend the next seminar and receive email updates about the seminar.
 
 ---
 

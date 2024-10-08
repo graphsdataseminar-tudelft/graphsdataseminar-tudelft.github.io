@@ -42,9 +42,9 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Location**: EEMCS-36: LB 01.150 Lipkenszaal
 
-- [**Controllability of networks under sparsity constraints**](./past_talks/20250109.md/controllability-of-networks-under-sparsity-constraints), [Geethu Joseph](https://microelectronics.tudelft.nl/People/bio.php?id=794)
+- [**Controllability of networks under sparsity constraints**](./past_talks/20250109.md#controllability-of-networks-under-sparsity-constraints), [Geethu Joseph](https://microelectronics.tudelft.nl/People/bio.php?id=794)
 
-- [**On the optimality of sparse feedback control under architecture-dependent communication delays**](./past_talks/20250109.md/on-the-optimality-of-sparse-feedback-control-under-architecture-dependent-communication-delays), [Luca Ballotta](https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=it)
+- [**On the optimality of sparse feedback control under architecture-dependent communication delays**](./past_talks/20250109.md#on-the-optimality-of-sparse-feedback-control-under-architecture-dependent-communication-delays), [Luca Ballotta](https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=it)
 
 
 ---

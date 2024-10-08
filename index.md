@@ -23,10 +23,17 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 ## [November 7th, 2024] **Graph Neural Networks for Power Systems**
+
+**Location**: EEMCS-36: LB 01.170 Timmanzaal
+
 - [**Opportunities & challenges in graph-based learning for power system application**](./past_talks/20241107#opportunities--challenges-in-graph-based-learning-for-power-system-application), [Jochen Cremer](https://www.tudelft.nl/en/staff/j.l.cremer/)
 
 
+
 ## [December 5th, 2024] 
+
+**Location**: Building 28: Turing room 0.E420
+
 - [**Approximations for Kemeny's constant for several families of graphs and real-world networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij)
 
 ---

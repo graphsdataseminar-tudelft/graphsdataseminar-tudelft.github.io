@@ -36,7 +36,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Approximations for Kemeny's constant for several families of graphs and real-world networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij)
 
----
+
 
 ## [January 9th, 2025] 
 

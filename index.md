@@ -24,6 +24,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [November 7th, 2024] **Graph Neural Networks for Power Systems**
 
+**Time**: 10:30-12:00
+
 **Location**: EEMCS-36: LB 01.170 Timmanzaal
 
 **Join on Zoom**: [link](https://tudelft.zoom.us/j/99752196753?pwd=mNMrfA3ENiPFvnLbxu0KUpu2piQc2L.1)

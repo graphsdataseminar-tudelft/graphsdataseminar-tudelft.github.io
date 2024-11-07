@@ -22,19 +22,6 @@ The seminar takes place every month and comprises 2/3 talks:
 # **Upcoming Talks**
 
 
-## [November 7th, 2024] **Graph Neural Networks for Power Systems**
-
-**Time**: 10:30-12:00
-
-**Location**: EEMCS-36: LB 01.170 Timmanzaal
-
-**Join on Zoom**: [link](https://tudelft.zoom.us/j/99752196753?pwd=mNMrfA3ENiPFvnLbxu0KUpu2piQc2L.1)
-
-- [**Opportunities & challenges in graph-based learning for power system application**](./past_talks/20241107#opportunities--challenges-in-graph-based-learning-for-power-system-application), [Jochen Cremer](https://www.tudelft.nl/en/staff/j.l.cremer/)
-- [**Graph Shift Operator for Power System Applications**](./past_talks/20241107#graph-shift-operator-for-power-system-applications), [Ola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/?cHash=48dcf707ee57e8f585ddb4a8d2ee78b1)
-- [**Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning**](./past_talks/20241107#enabling-large-scale-coordination-of-electric-vehicles-using-reinforcement-learning), [Stavros Orfanoudakis](https://www.tudelft.nl/staff/s.orfanoudakis/?cHash=253c79932834cee4e47e4fc0adb061bd)
-
-
 
 ## [December 5th, 2024] 
 
@@ -58,6 +45,18 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [November 7th, 2024] **Graph Neural Networks for Power Systems**
+
+
+- [**Opportunities & challenges in graph-based learning for power system application**](./past_talks/20241107#opportunities--challenges-in-graph-based-learning-for-power-system-application), [Jochen Cremer](https://www.tudelft.nl/en/staff/j.l.cremer/)
+- [**Graph Shift Operator for Power System Applications**](./past_talks/20241107#graph-shift-operator-for-power-system-applications), [Ola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/?cHash=48dcf707ee57e8f585ddb4a8d2ee78b1)
+- [**Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning**](./past_talks/20241107#enabling-large-scale-coordination-of-electric-vehicles-using-reinforcement-learning), [Stavros Orfanoudakis](https://www.tudelft.nl/staff/s.orfanoudakis/?cHash=253c79932834cee4e47e4fc0adb061bd)
+
+
+
 
 
 ## [October 3rd, 2024] **Graph generation for chemical engineering**

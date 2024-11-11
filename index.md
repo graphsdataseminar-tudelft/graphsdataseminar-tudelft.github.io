@@ -23,7 +23,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [December 5th, 2024] Network Science
+## [December 5th, 2024] **Network Science**
 
 **Location**: Building 28: Turing room 0.E420
 
@@ -31,7 +31,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [January 9th, 2025] Network Controllability
+## [January 9th, 2025] **Network Controllability**
 
 **Location**: EEMCS-36: LB 01.150 Lipkenszaal
 
@@ -41,7 +41,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [February 13th, 2025] Networks and Crime Analysis
+## [February 13th, 2025] **Networks and Crime Analysis**
 
 **Location**: Building 28: Turing room 0.E420
 

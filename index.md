@@ -33,6 +33,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Network Reliability: Approximation, Upper Bounds, and Applications to Network Robustness**](./past_talks/20241205#network-reliability-approximation-upper-bounds-and-applications-to-network-robustness), [Xinhan Liu](https://www.nas.ewi.tudelft.nl/index.php/xinhan-liu)
 
+- [**Diffusion Backbones of Temporal Higher-Order Networks**](./past_talks/20241205#diffusion-backbones-of-temporal-higher-order-networks), [Shilun Zhang](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/shilun-zhang)
+
 
 
 

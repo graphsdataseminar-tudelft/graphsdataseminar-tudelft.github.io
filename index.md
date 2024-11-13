@@ -29,6 +29,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Time**: 10.30-12.00
 
+**Zoom**: [link](https://tudelft.zoom.us/j/96242626236)
+
 - [**Approximations for Kemeny's Constant for Several Families of Graphs and Real-World Networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij)
 
 - [**Network Reliability: Approximation, Upper Bounds, and Applications to Network Robustness**](./past_talks/20241205#network-reliability-approximation-upper-bounds-and-applications-to-network-robustness), [Xinhan Liu](https://www.nas.ewi.tudelft.nl/index.php/xinhan-liu)

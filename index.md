@@ -73,9 +73,15 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [November 7th, 2024] **Graph Neural Networks for Power Systems**
 
 
-- [**Opportunities & Challenges in Graph-Based Learning for Power System Application**](./past_talks/20241107#opportunities--challenges-in-graph-based-learning-for-power-system-application), [Jochen Cremer](https://www.tudelft.nl/en/staff/j.l.cremer/)
-- [**Graph Shift Operator for Power System Applications**](./past_talks/20241107#graph-shift-operator-for-power-system-applications), [Ola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/?cHash=48dcf707ee57e8f585ddb4a8d2ee78b1)
-- [**Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning**](./past_talks/20241107#enabling-large-scale-coordination-of-electric-vehicles-using-reinforcement-learning), [Stavros Orfanoudakis](https://www.tudelft.nl/staff/s.orfanoudakis/?cHash=253c79932834cee4e47e4fc0adb061bd)
+- [**Opportunities & Challenges in Graph-Based Learning for Power System Application**](./past_talks/20241107#opportunities--challenges-in-graph-based-learning-for-power-system-application), [Jochen Cremer](https://www.tudelft.nl/en/staff/j.l.cremer/) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241107_cremer.pdf) ]
+- [**Graph Shift Operator for Power System Applications**](./past_talks/20241107#graph-shift-operator-for-power-system-applications), [Ola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/?cHash=48dcf707ee57e8f585ddb4a8d2ee78b1) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241107_arowolo.pdf) ]
+- [**Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning**](./past_talks/20241107#enabling-large-scale-coordination-of-electric-vehicles-using-reinforcement-learning), [Stavros Orfanoudakis](https://www.tudelft.nl/staff/s.orfanoudakis/?cHash=253c79932834cee4e47e4fc0adb061bd) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241107_orfanoudakis.pdf) ]
 
 
 
@@ -83,7 +89,9 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [October 3rd, 2024] **Graph Generation for Chemical Engineering**
 - [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
-- [**Generative Artificial Intelligence for Control Structure Prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/)
+- [**Generative Artificial Intelligence for Control Structure Prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241003_balhorn.pdf) ]
 - [**Process Design through Deep Reinforcement Learning and Graph Neural Networks**](./past_talks/20241003.md#process-design-through-deep-reinforcement-learning-and-graph-neural-networks), [Qinghe Gao](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/about-the-department/process-systems-engineering/people/qinghe-gao) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20241003_gao.pdf) ]

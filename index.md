@@ -77,13 +77,16 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Opportunities & Challenges in Graph-Based Learning for Power System Application**](./past_talks/20241107#opportunities--challenges-in-graph-based-learning-for-power-system-application), [Jochen Cremer](https://www.tudelft.nl/en/staff/j.l.cremer/) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20241107_cremer.pdf) ]
+    ](../slides/20241107_cremer.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=vBZSimvXY1A&ab_channel=Elvinisufi) ]
 - [**Graph Shift Operator for Power System Applications**](./past_talks/20241107#graph-shift-operator-for-power-system-applications), [Ola Arowolo](https://www.tudelft.nl/en/staff/o.a.arowolo/?cHash=48dcf707ee57e8f585ddb4a8d2ee78b1) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20241107_arowolo.pdf) ]
+    ](../slides/20241107_arowolo.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=34RRkYme-Jk&ab_channel=Elvinisufii) ]
 - [**Enabling Large-Scale Coordination of Electric Vehicles Using Reinforcement Learning**](./past_talks/20241107#enabling-large-scale-coordination-of-electric-vehicles-using-reinforcement-learning), [Stavros Orfanoudakis](https://www.tudelft.nl/staff/s.orfanoudakis/?cHash=253c79932834cee4e47e4fc0adb061bd) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20241107_orfanoudakis.pdf) ]
+    ](../slides/20241107_orfanoudakis.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=7OGP2XiIsAs&ab_channel=Elvinisufi) ]
 
 
 

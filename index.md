@@ -56,12 +56,19 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [December 5th, 2024] **Network Science**
 
 
-- [**Approximations for Kemeny's Constant for Several Families of Graphs and Real-World Networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij)
+- [**Approximations for Kemeny's Constant for Several Families of Graphs and Real-World Networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241205_kooij.pdf) ]
 
-- [**Network Reliability: Approximation, Upper Bounds, and Applications to Network Robustness**](./past_talks/20241205#network-reliability-approximation-upper-bounds-and-applications-to-network-robustness), [Xinhan Liu](https://www.nas.ewi.tudelft.nl/index.php/xinhan-liu)
 
-- [**Diffusion Backbones of Temporal Higher-Order Networks**](./past_talks/20241205#diffusion-backbones-of-temporal-higher-order-networks), [Shilun Zhang](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/shilun-zhang)
+- [**Network Reliability: Approximation, Upper Bounds, and Applications to Network Robustness**](./past_talks/20241205#network-reliability-approximation-upper-bounds-and-applications-to-network-robustness), [Xinhan Liu](https://www.nas.ewi.tudelft.nl/index.php/xinhan-liu) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241205_liu.pdf) ]
 
+
+- [**Diffusion Backbones of Temporal Higher-Order Networks**](./past_talks/20241205#diffusion-backbones-of-temporal-higher-order-networks), [Shilun Zhang](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/shilun-zhang) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241205_zhang.pdf) ]
 
 
 

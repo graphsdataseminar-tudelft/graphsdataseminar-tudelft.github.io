@@ -25,7 +25,11 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [January 9th, 2025] **Network Controllability**
 
+**Time**: 10:30 - 12:00
+
 **Location**: EEMCS-36: LB 01.150 Lipkenszaal
+
+**Zoom**: [link](https://tudelft.zoom.us/j/99338893725)
 
 - [**Controllability of Networks Under Sparsity Constraints**](./past_talks/20250109.md#controllability-of-networks-under-sparsity-constraints), [Geethu Joseph](https://microelectronics.tudelft.nl/People/bio.php?id=794)
 

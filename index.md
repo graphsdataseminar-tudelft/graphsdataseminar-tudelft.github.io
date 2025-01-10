@@ -23,28 +23,19 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [January 9th, 2025] **Network Controllability**
-
-**Time**: 10:30 - 12:00
-
-**Location**: EEMCS-36: LB 01.150 Lipkenszaal
-
-**Zoom**: [link](https://tudelft.zoom.us/j/99338893725)
-
-- [**Controllability of Networks Under Sparsity Constraints**](./past_talks/20250109.md#controllability-of-networks-under-sparsity-constraints), [Geethu Joseph](https://microelectronics.tudelft.nl/People/bio.php?id=794)
-
-- [**On the Optimality of Sparse Feedback Control Under Architecture-Dependent Communication Delays**](./past_talks/20250109.md#on-the-optimality-of-sparse-feedback-control-under-architecture-dependent-communication-delays), [Luca Ballotta](https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=it)
-
 
 
 ## [February 13th, 2025] **Networks and Crime Analysis**
 
 **Location**: Building 28: Turing room 0.E420
 
+**Time**: 10:30 - 12:00
+
 - [**Graph ML for Financial Crime Analysis**](./past_talks/20250213#graph-ml-for-financial-crime-analysis), [Kubilay Atasu](https://atasu-kubilay.github.io/)
 
 - [**Multigraph Neural Networks for Financial Transaction Graphs**](./past_talks/20250213#multigraph-neural-networks-for-financial-transaction-graphs), [Çağrı Bilgi](https://hcagri.github.io/)
 
+- [**Higher-order temporal network prediction and interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters)
 
 
 
@@ -54,6 +45,23 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [January 9th, 2025] **Network Controllability**
+
+
+- [**Controllability of Networks Under Sparsity Constraints**](./past_talks/20250109.md#controllability-of-networks-under-sparsity-constraints), [Geethu Joseph](https://microelectronics.tudelft.nl/People/bio.php?id=794) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250109_joseph.pdf) ]
+
+
+- [**On the Optimality of Sparse Feedback Control Under Architecture-Dependent Communication Delays**](./past_talks/20250109.md#on-the-optimality-of-sparse-feedback-control-under-architecture-dependent-communication-delays), [Luca Ballotta](https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=it) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250109_ballotta.pdf) ]
+
+
+
 
 
 

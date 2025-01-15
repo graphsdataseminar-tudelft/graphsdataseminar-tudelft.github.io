@@ -25,7 +25,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [February 13th, 2025] **Networks and Crime Analysis**
+## [February 13th, 2025] **Networks, Machine Learning and Crime Analysis**
 
 **Location**: Building 28: Turing room 0.E420
 
@@ -53,12 +53,14 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Controllability of Networks Under Sparsity Constraints**](./past_talks/20250109.md#controllability-of-networks-under-sparsity-constraints), [Geethu Joseph](https://microelectronics.tudelft.nl/People/bio.php?id=794) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250109_joseph.pdf) ]
+    ](../slides/20250109_joseph.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=5vtfks3K0d4&ab_channel=Elvinisufi) ]
 
 
 - [**On the Optimality of Sparse Feedback Control Under Architecture-Dependent Communication Delays**](./past_talks/20250109.md#on-the-optimality-of-sparse-feedback-control-under-architecture-dependent-communication-delays), [Luca Ballotta](https://scholar.google.com/citations?user=0Fv9vH8AAAAJ&hl=it) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250109_ballotta.pdf) ]
+    ](../slides/20250109_ballotta.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=LOjETTJIG-I&ab_channel=Elvinisufi) ]
 
 
 
@@ -70,17 +72,20 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Approximations for Kemeny's Constant for Several Families of Graphs and Real-World Networks**](./past_talks/20241205#approximations-for-kemenys-constant-for-several-families-of-graphs-and-real-world-networks), [Rob Kooij](https://www.nas.ewi.tudelft.nl/index.php/rob-kooij) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20241205_kooij.pdf) ]
+    ](../slides/20241205_kooij.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=TxWf30M_7fw&ab_channel=Elvinisufi) ]
 
 
 - [**Network Reliability: Approximation, Upper Bounds, and Applications to Network Robustness**](./past_talks/20241205#network-reliability-approximation-upper-bounds-and-applications-to-network-robustness), [Xinhan Liu](https://www.nas.ewi.tudelft.nl/index.php/xinhan-liu) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20241205_liu.pdf) ]
+    ](../slides/20241205_liu.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=HPDzjUdmno0&ab_channel=Elvinisufi) ]
 
 
 - [**Diffusion Backbones of Temporal Higher-Order Networks**](./past_talks/20241205#diffusion-backbones-of-temporal-higher-order-networks), [Shilun Zhang](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/shilun-zhang) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20241205_zhang.pdf) ]
+    ](../slides/20241205_zhang.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=mxxVS_vvyTI&ab_channel=Elvinisufi) ]
 
 
 

@@ -31,11 +31,25 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Time**: 10:30 - 12:00
 
+**Zoom**: [link](https://tudelft.zoom.us/j/96233384081)
+
 - [**Graph ML for Financial Crime Analysis**](./past_talks/20250213#graph-ml-for-financial-crime-analysis), [Kubilay Atasu](https://atasu-kubilay.github.io/)
 
-- [**Multigraph Neural Networks for Financial Transaction Graphs**](./past_talks/20250213#multigraph-neural-networks-for-financial-transaction-graphs), [Çağrı Bilgi](https://hcagri.github.io/)
+- [**Advances in Multigraph Neural Networks**](./past_talks/20250213#advances-in-multigraph-neural-networks), [Çağrı Bilgi](https://hcagri.github.io/)
 
 - [**Higher-order temporal network prediction and interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters)
+
+
+
+
+## [March 6th, 2025] **Graph Neural Networks in bioscience**
+
+**Time**: 10:30 - 12:00
+
+
+- [**Towards machine learning of molecular ensembles**](./past_talks/20250306#towards-machine-learning-of-molecular-ensembles), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber)
+
+
 
 
 

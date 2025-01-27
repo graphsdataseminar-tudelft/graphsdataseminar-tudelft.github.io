@@ -37,21 +37,30 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Advances in Multigraph Neural Networks**](./past_talks/20250213#advances-in-multigraph-neural-networks), [Çağrı Bilgi](https://hcagri.github.io/)
 
-- [**Higher-order temporal network prediction and interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters)
+- [**Higher-Order Temporal Network Prediction and Interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters)
 
 
 
 
-## [March 6th, 2025] **Graph Neural Networks in bioscience**
+## [March 6th, 2025] **Graph Neural Networks in Bioscience**
 
 **Time**: 10:30 - 12:00
 
 
-- [**Towards machine learning of molecular ensembles**](./past_talks/20250306#towards-machine-learning-of-molecular-ensembles), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber)
+- [**Towards Machine Learning of Molecular Ensembles**](./past_talks/20250306#towards-machine-learning-of-molecular-ensembles), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber)
+
+- [**Spatial Compositionality in Diffusion Models Using a Graph-Based Approach**](./past_talks/20250306#towards-machine-learning-of-molecular-ensembles), [Amelia Villegas Morcillo](https://amelvim.github.io/)
 
 
 
+## [April 3rd, 2025] **Graph Neural Networks and Partial Differential Equations**
 
+
+- [Alexander Heinlein](https://searhein.github.io/)
+
+- [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
+
+- [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
 
 
 ---

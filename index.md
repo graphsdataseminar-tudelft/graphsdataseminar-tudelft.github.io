@@ -25,31 +25,14 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [February 13th, 2025] **Networks, Machine Learning and Crime Analysis**
-
-**Location**: Building 28: Turing room 0.E420
-
-**Time**: 10:30 - 12:00
-
-**Zoom**: [link](https://tudelft.zoom.us/j/96233384081)
-
-- [**Graph ML for Financial Crime Analysis**](./past_talks/20250213#graph-ml-for-financial-crime-analysis), [Kubilay Atasu](https://atasu-kubilay.github.io/)
-
-- [**Advances in Multigraph Neural Networks**](./past_talks/20250213#advances-in-multigraph-neural-networks), [Çağrı Bilgi](https://hcagri.github.io/)
-
-- [**Higher-Order Temporal Network Prediction and Interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters)
 
 
 
-
-## [March 6th, 2025] **Graph Neural Networks in Bioscience**
+## [March 11th, 2025] **Special Session**
 
 **Time**: 10:30 - 12:00
 
-
-- [**Towards Machine Learning of Molecular Ensembles**](./past_talks/20250306#towards-machine-learning-of-molecular-ensembles), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber)
-
-- [**Spatial Compositionality in Diffusion Models Using a Graph-Based Approach**](./past_talks/20250306#towards-machine-learning-of-molecular-ensembles), [Amelia Villegas Morcillo](https://amelvim.github.io/)
+- [Antonio Marques](https://tsc.urjc.es/~amarques/)
 
 
 
@@ -68,6 +51,25 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [February 13th, 2025] **Networks, Machine Learning and Crime Analysis**
+
+- [**Graph ML for Financial Crime Analysis**](./past_talks/20250213#graph-ml-for-financial-crime-analysis), [Kubilay Atasu](https://atasu-kubilay.github.io/) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250213_atasu.pdf) ] 
+
+- [**Advances in Multigraph Neural Networks**](./past_talks/20250213#advances-in-multigraph-neural-networks), [Çağrı Bilgi](https://hcagri.github.io/) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250213_bilgi.pdf) ] 
+
+- [**Higher-Order Temporal Network Prediction and Interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250213_peters.pdf) ] 
+
+
+
 
 
 

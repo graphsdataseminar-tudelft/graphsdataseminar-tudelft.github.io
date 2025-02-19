@@ -34,6 +34,9 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [Antonio Marques](https://tsc.urjc.es/~amarques/)
 
+- [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html)
+
+
 
 
 ## [April 3rd, 2025] **Graph Neural Networks and Partial Differential Equations**
@@ -135,7 +138,9 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 ## [October 3rd, 2024] **Graph Generation for Chemical Engineering**
-- [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann)
+- [**Generative Artificial Intelligence for Chemical Process Engineering**](./past_talks/20241003.md#generative-artificial-intelligence-for-chemical-process-engineering), [Artur M. Schweidtmann](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering/principal-investigators/artur-schweidtmann) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20241003_schweidtmann.pdf) ]
 - [**Generative Artificial Intelligence for Control Structure Prediction**](./past_talks/20241003.md#generative-artificial-intelligence-for-control-structure-prediction), [Lukas Schulze Balhorn](https://www.tudelft.nl/en/staff/l.schulzebalhorn/) \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20241003_balhorn.pdf) ]

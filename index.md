@@ -23,19 +23,13 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-
-
-
-
-
 ## [March 11th, 2025] **Special Session**
 
 **Time**: 10:30 - 12:00
 
+- [**Concomitant Linear DAG Estimation**](./past_talks/20250213#), [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html)
+ 
 - [Antonio Marques](https://tsc.urjc.es/~amarques/)
-
-- [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html)
-
 
 
 

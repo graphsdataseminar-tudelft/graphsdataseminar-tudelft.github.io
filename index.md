@@ -27,6 +27,10 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Time**: 10:30 - 12:00
 
+**Location**: Snijderszaal (LB01.010)
+
+**Zoom**: [link](https://tudelft.zoom.us/j/99824531492)
+
 - [**Concomitant Linear DAG Estimation**](./past_talks/20250306#concomitant-linear-dag-estimation), [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html)
  
 - [**Connecting the Dots: An Updated View about How to Use Graph Signal Processing to Learn Graphs from Observations**](./past_talks/20250306#connecting-the-dots-an-updated-view-about-how-to-use-graph-signal-processing-to-learn-graphs-from-observations), [Antonio Marques](https://tsc.urjc.es/~amarques/)

@@ -59,15 +59,18 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Graph ML for Financial Crime Analysis**](./past_talks/20250213#graph-ml-for-financial-crime-analysis), [Kubilay Atasu](https://atasu-kubilay.github.io/) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250213_atasu.pdf) ] 
+    ](../slides/20250213_atasu.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=_olB33NSCfM&ab_channel=Elvinisufi) ]
 
 - [**Advances in Multigraph Neural Networks**](./past_talks/20250213#advances-in-multigraph-neural-networks), [Çağrı Bilgi](https://hcagri.github.io/) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250213_bilgi.pdf) ] 
+    ](../slides/20250213_bilgi.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=ybwnFTR2_BM&ab_channel=Elvinisufi) ]
 
 - [**Higher-Order Temporal Network Prediction and Interpretation**](./past_talks/20250213#higher-order-temporal-network-prediction-and-interpretation), [Bart Peters](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/bart-peters) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250213_peters.pdf) ] 
+    ](../slides/20250213_peters.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=vRXYNumvPc8&ab_channel=Elvinisufi) ]
 
 
 

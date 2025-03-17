@@ -57,7 +57,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [June 5th, 2025] **GNNs for traffic data**
+## [June 5th, 2025] **GNNs and transportation**
 
 
 - [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)

@@ -26,12 +26,22 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [April 3rd, 2025] **Graph Neural Networks and Partial Differential Equations**
 
+**Time**: 10:30 - 12:00
 
-- [Alexander Heinlein](https://searhein.github.io/)
+**Location**: 01.150 Lipkenszaal 
+
+**Zoom**: [link](https://tudelft.zoom.us/j/98142604796)
+
+
+- [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/)
+
+- [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
+
 
 - [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
 
-- **Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**, [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
+
+
 
 
 ---

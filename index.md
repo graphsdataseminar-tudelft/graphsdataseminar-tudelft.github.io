@@ -44,7 +44,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [May 1st, 2025] **Temporal graphs and interactions estimation**
+## [May 1st, 2025] **Temporal Graphs and Interactions Estimation**
 
 
 - [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
@@ -57,7 +57,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [June 5th, 2025] **GNNs and transportation**
+## [June 5th, 2025] **GNNs and Transportation**
 
 
 - [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)

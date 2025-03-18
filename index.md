@@ -24,7 +24,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [April 3rd, 2025] **Graph Neural Networks and Partial Differential Equations**
+## [April 3rd, 2025] **Graphs in Scientific Computing and Machine Learning**
 
 **Time**: 10:30 - 12:00
 

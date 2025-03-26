@@ -49,8 +49,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
 
-- [Ruben Wijnands](https://microelectronics.tudelft.nl/Education/bio.php?id=1263)
-
 - [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ)
 
 

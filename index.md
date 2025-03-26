@@ -81,8 +81,9 @@ The seminar takes place every month and comprises 2/3 talks:
 - [**Connecting the Dots: An Updated View about How to Use Graph Signal Processing to Learn Graphs from Observations**](./past_talks/20250306#connecting-the-dots-an-updated-view-about-how-to-use-graph-signal-processing-to-learn-graphs-from-observations), [Antonio Marques](https://tsc.urjc.es/~amarques/)
 
 
-- [**Concomitant Linear DAG Estimation**](./past_talks/20250306#concomitant-linear-dag-estimation), [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html)
- 
+- [**Concomitant Linear DAG Estimation**](./past_talks/20250306#concomitant-linear-dag-estimation), [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250311_mateos.pdf) ]  
 
 
 

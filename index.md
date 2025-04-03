@@ -38,7 +38,7 @@ The seminar takes place every month and comprises 2/3 talks:
 - [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
 
 
-- [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#rapid-spatio-temporal-flood-modelling-via-hydraulics-based-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
+- [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#modelling-floods-with-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
 
 
 

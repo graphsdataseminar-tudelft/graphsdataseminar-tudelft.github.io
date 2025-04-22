@@ -58,7 +58,9 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [April 3rd, 2025] **Graphs in Scientific Computing and Machine Learning**
 
 
-- [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/)
+- [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250403_heinlein.pdf) ] 
 
 - [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043) \
     [ [<span style="color:#D22B2B">Slides</span>

@@ -60,10 +60,14 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/)
 
-- [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
+- [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250403_storm.pdf) ] 
 
 
-- [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#modelling-floods-with-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
+- [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#modelling-floods-with-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250403_bentivoglio.pdf) ] 
 
 
 
@@ -331,12 +335,28 @@ The seminar takes place every month and comprises 2/3 talks:
     </div>
     <div class="organizer big-organizer">
       <div class="organizer-header">
+        <img src="images/ting.jpg" alt="Ting Gao" class="organizer-photo big-photo">
+        <p><strong><a href="https://www.tudelft.nl/en/staff/t.gao-1/">Ting Gao</a></strong><br>
+        </p>
+      </div>
+    </div>
+  </div>
+    <div class="organizer big-organizer">
+      <div class="organizer-header">
         <img src="images/alex.jpg" alt="Alexander Garzón" class="organizer-photo big-photo">
         <p><strong><a href="https://www.tudelft.nl/en/staff/j.a.garzondiaz/?cHash=179501011185fb0c281345f9391fef44">Alexander Garzón</a></strong><br>(previous organizer)
         </p>
       </div>
     </div>
+        <div class="organizers-container">
+    <div class="organizer big-organizer">
+      <!-- <div class="organizer-header">
+        <img src="images/andrea.jpg" alt="Andrea Cavallo" class="organizer-photo big-photo">
+        <strong><a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo">Andrea Cavallo</a></strong>
+      </div> -->
+    </div>
   </div>
+
 
 
 <!-- <p float="middle">

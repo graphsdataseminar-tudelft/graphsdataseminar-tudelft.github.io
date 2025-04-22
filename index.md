@@ -348,13 +348,13 @@ The seminar takes place every month and comprises 2/3 talks:
         </p>
       </div>
     </div>
-        <div class="organizers-container">
-    <div class="organizer big-organizer">
-      <!-- <div class="organizer-header">
-        <img src="images/andrea.jpg" alt="Andrea Cavallo" class="organizer-photo big-photo">
-        <strong><a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo">Andrea Cavallo</a></strong>
-      </div> -->
-    </div>
+    <!-- <div class="organizers-container">
+      <div class="organizer big-organizer">
+        <div class="organizer-header">
+            <img src="images/andrea.jpg" alt="Andrea Cavallo" class="organizer-photo big-photo">
+            <strong><a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/andrea-cavallo">Andrea Cavallo</a></strong>
+      </div>
+    </div> -->
   </div>
 
 

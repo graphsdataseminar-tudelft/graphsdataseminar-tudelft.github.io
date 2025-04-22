@@ -23,31 +23,12 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-
-## [April 3rd, 2025] **Graphs in Scientific Computing and Machine Learning**
-
-**Time**: 10:30 - 12:00
-
-**Location**: 01.150 Lipkenszaal 
-
-**Zoom**: [link](https://tudelft.zoom.us/j/98142604796)
-
-
-- [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/)
-
-- [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
-
-
-- [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#modelling-floods-with-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
-
-
-
-
-
 ## [May 1st, 2025] **Temporal Graphs and Interactions Estimation**
 
 
 - [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
+
+- [Yongsheng Han](https://microelectronics.tudelft.nl/People/bio.php?id=1070)
 
 - [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ)
 
@@ -60,7 +41,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)
 
-
+- [Ting Gao](https://www.tudelft.nl/en/staff/t.gao-1/)
 
 
 
@@ -71,6 +52,21 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [April 3rd, 2025] **Graphs in Scientific Computing and Machine Learning**
+
+
+- [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/)
+
+- [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043)
+
+
+- [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#modelling-floods-with-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09)
+
+
+
 
 
 

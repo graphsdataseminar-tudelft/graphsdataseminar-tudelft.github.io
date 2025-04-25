@@ -65,16 +65,19 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Algebraic Domain Decomposition Solvers for Large-Scale Problems Using Graph Techniques**](./past_talks/20250403.md#algebraic-domain-decomposition-solvers-for-large-scale-problems-using-graph-techniques), [Alexander Heinlein](https://searhein.github.io/) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250403_heinlein.pdf) ] 
+    ](../slides/20250403_heinlein.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=K_68fUok7M4) ]
 
 - [**Accelerating Simulations of Materials using Graph Neural Networks with Embedded Constitutive Models**](./past_talks/20250403.md#accelerating-simulations-of-materials-using-graph-neural-networks-with-embedded-constitutive-models), [Joep Storm](https://www.tudelft.nl/staff/j.storm/?cHash=bb8b5704845a288f3e1078614dc94043) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250403_storm.pdf) ] 
+    ](../slides/20250403_storm.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=QfcX9Ui1KW8) ]
 
 
 - [**Modelling Floods with Graph Neural Networks**](./past_talks/20250403.md#modelling-floods-with-graph-neural-networks), [Roberto Bentivoglio](https://www.tudelft.nl/staff/r.bentivoglio/?cHash=97f44ef9f09c4a119e05d86605ae8a09) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250403_bentivoglio.pdf) ] 
+    ](../slides/20250403_bentivoglio.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=bREQ5FtQ2CY) ]
 
 
 
@@ -88,7 +91,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Concomitant Linear DAG Estimation**](./past_talks/20250306#concomitant-linear-dag-estimation), [Gonzalo Mateos](https://www.hajim.rochester.edu/ece/people/faculty/mateos_gonzalo/index.html) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250311_mateos.pdf) ]  
+    ](../slides/20250311_mateos.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=r0bplSl9mWA) ]
 
 
 

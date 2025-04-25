@@ -29,6 +29,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Time**: 10:30 - 12:00
 
+**Zoom**: [link](https://tudelft.zoom.us/j/92974591894)
+
 - [**Signal Processing over Expanding Graphs**](./past_talks/20250501.md#signal-processing-over-expanding-graphs), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
 
 - [**Graph Topology Identification Based on Covariance Matching**](./past_talks/20250501.md#graph-topology-identification-based-on-covariance-matching), [Yongsheng Han](https://microelectronics.tudelft.nl/People/bio.php?id=1070)

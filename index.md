@@ -23,20 +23,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [May 1st, 2025] **Expanding Graphs and Interactions Estimation**
-
-**Location**: Building 36, 01.150 Lipkenszaal
-
-**Time**: 10:30 - 12:00
-
-**Zoom**: [link](https://tudelft.zoom.us/j/92974591894)
-
-- [**Signal Processing over Expanding Graphs**](./past_talks/20250501.md#signal-processing-over-expanding-graphs), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en)
-
-- [**Graph Topology Identification Based on Covariance Matching**](./past_talks/20250501.md#graph-topology-identification-based-on-covariance-matching), [Yongsheng Han](https://microelectronics.tudelft.nl/People/bio.php?id=1070)
-
-- [**Relational Learning via Covariance Information**](./past_talks/20250501.md#relational-learning-via-covariance-information), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ)
-
 
 
 
@@ -57,6 +43,25 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [May 1st, 2025] **Expanding Graphs and Interactions Estimation**
+
+- [**Signal Processing over Expanding Graphs**](./past_talks/20250501.md#signal-processing-over-expanding-graphs), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250501_das.pdf) ]
+
+- [**Graph Topology Identification Based on Covariance Matching**](./past_talks/20250501.md#graph-topology-identification-based-on-covariance-matching), [Yongsheng Han](https://microelectronics.tudelft.nl/People/bio.php?id=1070) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250501_han.pdf) ]
+
+- [**Relational Learning via Covariance Information**](./past_talks/20250501.md#relational-learning-via-covariance-information), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250501_cavallo.pdf) ]
+
+
+
 
 
 

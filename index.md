@@ -27,12 +27,18 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [June 5th, 2025] **GNNs and Transportation**
+## [June 5th, 2025] **Graph Representation and Learning for Transportation**
+
+**Location**: Building 36, 01.150 Lipkenszaal 
+
+**Time**: 11:00-12:30
+
+**Zoom**: https://tudelft.zoom.us/j/95814481639
 
 
-- [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)
+- [**Graphs and Data in Passenger Transport Systems**](./past_talks/20250605.md#graphs-and-data-in-passenger-transport-systems), [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)
 
-- [Ting Gao](https://www.tudelft.nl/en/staff/t.gao-1/)
+- [**Bicycle Travel Time Estimation via Dual Graph-Based Neural Networks**](./past_talks/20250605.md#bicycle-travel-time-estimation-via-dual-graph-based-neural-networks), [Ting Gao](https://www.tudelft.nl/en/staff/t.gao-1/)
 
 
 

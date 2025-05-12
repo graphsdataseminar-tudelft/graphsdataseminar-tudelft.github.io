@@ -33,7 +33,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Time**: 11:00-12:30
 
-**Zoom**: https://tudelft.zoom.us/j/95814481639
+**Zoom**: [link](https://tudelft.zoom.us/j/95814481639)
 
 
 - [**Graphs and Data in Passenger Transport Systems**](./past_talks/20250605.md#graphs-and-data-in-passenger-transport-systems), [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)

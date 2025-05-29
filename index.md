@@ -59,15 +59,18 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Signal Processing over Expanding Graphs**](./past_talks/20250501.md#signal-processing-over-expanding-graphs), [Bishwadeep Das](https://scholar.google.com/citations?user=3D96umoAAAAJ&hl=en) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250501_das.pdf) ]
+    ](../slides/20250501_das.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=bVGrNMJXqmA) ]
 
 - [**Graph Topology Identification Based on Covariance Matching**](./past_talks/20250501.md#graph-topology-identification-based-on-covariance-matching), [Yongsheng Han](https://microelectronics.tudelft.nl/People/bio.php?id=1070) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250501_han.pdf) ]
+    ](../slides/20250501_han.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=OlyW3YoS5ao) ]
 
 - [**Relational Learning via Covariance Information**](./past_talks/20250501.md#relational-learning-via-covariance-information), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250501_cavallo.pdf) ]
+    ](../slides/20250501_cavallo.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=02G9t-ajJuE) ]
 
 
 

@@ -24,25 +24,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-
-
-
-## [June 5th, 2025] **Graph Representation and Learning for Transportation**
-
-**Location**: Building 36, 01.150 Lipkenszaal 
-
-**Time**: 11:00-12:30
-
-**Zoom**: [link](https://tudelft.zoom.us/j/95814481639)
-
-
-- [**Graphs and Data in Passenger Transport Systems**](./past_talks/20250605.md#graphs-and-data-in-passenger-transport-systems), [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o)
-
-- [**Uncertainty-aware Probabilistic Travel Demand Prediction with GNN and VAE for Mobility-on-demand Services**](./past_talks/20250605.md#uncertainty-aware-probabilistic-travel-demand-prediction-with-gnn-and-vae-for-mobility-on-demand-services), [Tao Peng](https://www.tudelft.nl/en/staff/t.peng-2/?cHash=88e45bb4785d2266332d54da716f1e8e)
-
-
-- [**Bicycle Travel Time Estimation via Dual Graph-Based Neural Networks**](./past_talks/20250605.md#bicycle-travel-time-estimation-via-dual-graph-based-neural-networks), [Ting Gao](https://www.tudelft.nl/en/staff/t.gao-1/)
-
+The seminar will start again after the summer break.
 
 
 
@@ -52,6 +34,26 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [June 5th, 2025] **Graph Representation and Learning for Transportation**
+
+
+- [**Graphs and Data in Passenger Transport Systems**](./past_talks/20250605.md#graphs-and-data-in-passenger-transport-systems), [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250605_cats.pdf) ] 
+
+- [**Uncertainty-aware Probabilistic Travel Demand Prediction with GNN and VAE for Mobility-on-demand Services**](./past_talks/20250605.md#uncertainty-aware-probabilistic-travel-demand-prediction-with-gnn-and-vae-for-mobility-on-demand-services), [Tao Peng](https://www.tudelft.nl/en/staff/t.peng-2/?cHash=88e45bb4785d2266332d54da716f1e8e) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250605_peng.pdf) ] 
+
+
+- [**Bicycle Travel Time Estimation via Dual Graph-Based Neural Networks**](./past_talks/20250605.md#bicycle-travel-time-estimation-via-dual-graph-based-neural-networks), [Ting Gao](https://www.tudelft.nl/en/staff/t.gao-1/) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250605_gao.pdf) ] 
+
+
 
 
 

@@ -31,9 +31,9 @@ The seminar takes place every month and comprises 2/3 talks:
 **Location:** LB 01.170 Timmanzaal
 
 
-- **Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**, [Saurabh Sihag](https://sihags.github.io/) 
+- [**Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**](./past_talks/20250904.md), [Saurabh Sihag](https://sihags.github.io/) 
 
-- **Robust Covariance Neural Networks**, [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en)
+- [**Robust Covariance Neural Networks**](./past_talks/20250904.md), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en)
 
 
 

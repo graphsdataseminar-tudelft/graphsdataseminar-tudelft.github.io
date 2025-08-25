@@ -24,7 +24,18 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-The seminar will start again after the summer break.
+## [September 4th, 2025] **Covariance Neural Networks**
+
+**Time:** 10.00-12.30
+
+**Location:** LB 01.170 Timmanzaal
+
+
+- **Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**, [Saurabh Sihag](https://sihags.github.io/) 
+
+- **Robust Covariance Neural Networks**, [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en)
+
+
 
 
 

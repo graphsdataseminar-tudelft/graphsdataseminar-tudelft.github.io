@@ -24,16 +24,19 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [September 4th, 2025] **Covariance Neural Networks**
+## [September 4th, 2025] **Special Session - Covariance Neural Networks**
 
-**Time:** 10.00-12.30
+**Time:** 10.00-11.10
 
 **Location:** LB 01.170 Timmanzaal
 
+**Zoom:** [link](https://tudelft.zoom.us/j/99067737330?pwd=uBZb0m6fkLoi0YFCB84KYqnxCtgNCz.1)
 
-- [**Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**](./past_talks/20250904.md), [Saurabh Sihag](https://sihags.github.io/) 
 
-- [**Robust Covariance Neural Networks**](./past_talks/20250904.md), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en)
+
+- [**Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**](./past_talks/20250904.md#disentangling-neurodegeneration-with-brain-age-gap-prediction-models-a-graph-signal-processing-perspective), [Saurabh Sihag](https://sihags.github.io/) 
+
+- [**Robust Covariance Neural Networks**](./past_talks/20250904.md#robust-covariance-neural-networks), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en)
 
 
 
@@ -53,16 +56,19 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Graphs and Data in Passenger Transport Systems**](./past_talks/20250605.md#graphs-and-data-in-passenger-transport-systems), [Oded Cats](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/staff/persoonlijke-paginas/cats-o) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250605_cats.pdf) ] 
+    ](../slides/20250605_cats.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=xMXV2Wwexk4) ]
 
 - [**Uncertainty-aware Probabilistic Travel Demand Prediction with GNN and VAE for Mobility-on-demand Services**](./past_talks/20250605.md#uncertainty-aware-probabilistic-travel-demand-prediction-with-gnn-and-vae-for-mobility-on-demand-services), [Tao Peng](https://www.tudelft.nl/en/staff/t.peng-2/?cHash=88e45bb4785d2266332d54da716f1e8e) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250605_peng.pdf) ] 
+    ](../slides/20250605_peng.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=xMXV2Wwexk4) ]
 
 
 - [**Bicycle Travel Time Estimation via Dual Graph-Based Neural Networks**](./past_talks/20250605.md#bicycle-travel-time-estimation-via-dual-graph-based-neural-networks), [Ting Gao](https://www.tudelft.nl/en/staff/t.gao-1/) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250605_gao.pdf) ] 
+    ](../slides/20250605_gao.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=76z36kZQkOc) ]
 
 
 

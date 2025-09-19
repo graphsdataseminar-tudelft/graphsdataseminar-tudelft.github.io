@@ -24,21 +24,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [September 4th, 2025] **Special Session - Covariance Neural Networks**
-
-**Time:** 10.00-11.10
-
-**Location:** LB 01.170 Timmanzaal
-
-**Zoom:** [link](https://tudelft.zoom.us/j/99067737330?pwd=uBZb0m6fkLoi0YFCB84KYqnxCtgNCz.1)
-
-
-
-- [**Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**](./past_talks/20250904.md#disentangling-neurodegeneration-with-brain-age-gap-prediction-models-a-graph-signal-processing-perspective), [Saurabh Sihag](https://sihags.github.io/) 
-
-- [**Robust Covariance Neural Networks**](./past_talks/20250904.md#robust-covariance-neural-networks), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en)
-
-
 
 
 
@@ -48,6 +33,21 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+## [September 4th, 2025] **Special Session - Covariance Neural Networks**
+
+
+- [**Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**](./past_talks/20250904.md#disentangling-neurodegeneration-with-brain-age-gap-prediction-models-a-graph-signal-processing-perspective), [Saurabh Sihag](https://sihags.github.io/)  \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250904_sihag.pdf) ]
+
+- [**Robust Covariance Neural Networks**](./past_talks/20250904.md#robust-covariance-neural-networks), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20250904_cavallo.pdf) ]
+
+
 
 
 

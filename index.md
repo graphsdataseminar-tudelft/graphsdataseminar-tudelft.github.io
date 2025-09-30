@@ -23,7 +23,17 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
+## [October 15th, 2025] **Special Session - Industry Talks**
 
+**Time:** 15:45 - 17:45
+
+**Location:** Lecture Hall Pi
+
+
+- [Chenxu Ma](https://www.linkedin.com/in/chenxu-ma-3686991a6/) 
+    
+
+- **Applications of (Graph) Machine Learning Techniques in Finance**, [Afrasiab Kadhum](https://www.linkedin.com/in/afrasiab-kadhum/?originalSubdomain=nl) 
 
 
 
@@ -41,11 +51,13 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Disentangling Neurodegeneration with Brain Age Gap Prediction Models: A Graph Signal Processing Perspective**](./past_talks/20250904.md#disentangling-neurodegeneration-with-brain-age-gap-prediction-models-a-graph-signal-processing-perspective), [Saurabh Sihag](https://sihags.github.io/)  \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250904_sihag.pdf) ]
+    ](../slides/20250904_sihag.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=jgk4XXQM57g) ]
 
 - [**Robust Covariance Neural Networks**](./past_talks/20250904.md#robust-covariance-neural-networks), [Andrea Cavallo](https://scholar.google.com/citations?user=rzuJ5jMAAAAJ&hl=en) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20250904_cavallo.pdf) ]
+    ](../slides/20250904_cavallo.pdf) ] [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=iE8q0qEhP60) ]
 
 
 

@@ -31,7 +31,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Zoom**: [link](https://tudelft.zoom.us/j/93012855715)
 
-- [**Graph Machine Learning at Booking.com**](./past_talks/20251015.md#graph-machine-learning-at-bookingcom) , [Chenxu Ma](https://www.linkedin.com/in/chenxu-ma-3686991a6/) 
+- [**Graph Technology for Realtime Fraud Detection and Prevention**](./past_talks/20251015.md#graph-technology-for-realtime-fraud-detection-and-prevention) , [Chenxu Ma](https://www.linkedin.com/in/chenxu-ma-3686991a6/) 
     
 
 - [**Applications of (Graph) Machine Learning Techniques in Finance**](./past_talks/20251015.md#applications-of-graph-machine-learning-techniques-in-finance), [Afrasiab Kadhum](https://www.linkedin.com/in/afrasiab-kadhum/?originalSubdomain=nl) and [Aratrika Das](https://www.linkedin.com/in/aratrika-das-4a2223231/)

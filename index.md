@@ -39,6 +39,31 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
+## [November 6th, 2025] **Complex Networks**
+
+**Time:** 15:00 - 16:30
+
+**Location:** Civil Engineering and Geosciences (CEG) HG 2.62
+
+
+- [**Node Metrics in Complex Networks: Foundations, Perspectives and Applications**](./past_talks/20251106.md#node-metrics-in-complex-networks-foundations-perspectives-and-applications), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) 
+
+
+
+
+
+## [December 4th, 2025] **Graphs and Architecture**
+
+**Time:** 15:00 - 16:30
+
+**Location:** Electrical Engineering, Mathematics and Computer Sciences LB 01.170 Timmanzaal
+
+
+- [**From Spaces to Graphs: Spatial Data Representation**](./past_talks/20251204.md#from-spaces-to-graphs-spatial-data-representation), [Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi) 
+
+
+
+
 ---
 
 

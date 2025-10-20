@@ -23,21 +23,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [October 15th, 2025] **Special Session - Industry Talks**
-
-**Time:** 15:45 - 17:45
-
-**Location:** Lecture Hall Pi
-
-**Zoom**: [link](https://tudelft.zoom.us/j/93012855715)
-
-- [**Graph Technology for Realtime Fraud Detection and Prevention**](./past_talks/20251015.md#graph-technology-for-realtime-fraud-detection-and-prevention) , [Chenxu Ma](https://www.linkedin.com/in/chenxu-ma-3686991a6/) 
-    
-
-- [**Applications of (Graph) Machine Learning Techniques in Finance**](./past_talks/20251015.md#applications-of-graph-machine-learning-techniques-in-finance), [Afrasiab Kadhum](https://www.linkedin.com/in/afrasiab-kadhum/?originalSubdomain=nl) and [Aratrika Das](https://www.linkedin.com/in/aratrika-das-4a2223231/)
-
-
-
 
 ## [November 6th, 2025] **Complex Networks**
 
@@ -69,6 +54,17 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+## [October 15th, 2025] **Special Session - Industry Talks**
+
+
+- [**Graph Technology for Realtime Fraud Detection and Prevention**](./past_talks/20251015.md#graph-technology-for-realtime-fraud-detection-and-prevention) , [Chenxu Ma](https://www.linkedin.com/in/chenxu-ma-3686991a6/) 
+    
+
+- [**Applications of (Graph) Machine Learning Techniques in Finance**](./past_talks/20251015.md#applications-of-graph-machine-learning-techniques-in-finance), [Afrasiab Kadhum](https://www.linkedin.com/in/afrasiab-kadhum/?originalSubdomain=nl) and [Aratrika Das](https://www.linkedin.com/in/aratrika-das-4a2223231/)
+
+
 
 
 

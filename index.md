@@ -33,6 +33,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Node Metrics in Complex Networks: Foundations, Perspectives and Applications**](./past_talks/20251106.md#node-metrics-in-complex-networks-foundations-perspectives-and-applications), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) 
 
+- [**Matched Topological Subspace Detector**](./past_talks/20251106.md#matched-topological-subspace-detector), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu) 
+
 
 
 

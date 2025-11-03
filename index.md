@@ -30,6 +30,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Location:** Civil Engineering and Geosciences (CEG) HG 2.62
 
+**Zoom:** [link](https://tudelft.zoom.us/j/96361219252)
+
 
 - [**Node Metrics in Complex Networks: Foundations, Perspectives and Applications**](./past_talks/20251106.md#node-metrics-in-complex-networks-foundations-perspectives-and-applications), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) 
 

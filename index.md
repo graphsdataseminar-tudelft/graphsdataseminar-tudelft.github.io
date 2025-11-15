@@ -24,20 +24,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [November 6th, 2025] **Complex Networks**
-
-**Time:** 15:00 - 16:30
-
-**Location:** Civil Engineering and Geosciences (CEG) HG 2.62
-
-**Zoom:** [link](https://tudelft.zoom.us/j/96361219252)
-
-
-- [**Node Metrics in Complex Networks: Foundations, Perspectives and Applications**](./past_talks/20251106.md#node-metrics-in-complex-networks-foundations-perspectives-and-applications), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun) 
-
-- [**Matched Topological Subspace Detector**](./past_talks/20251106.md#matched-topological-subspace-detector), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu) 
-
-
 
 
 
@@ -58,6 +44,21 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+## [November 6th, 2025] **Complex Networks**
+
+
+- [**Node Metrics in Complex Networks: Foundations, Perspectives and Applications**](./past_talks/20251106.md#node-metrics-in-complex-networks-foundations-perspectives-and-applications), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun)   \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20251106_shvydun.pdf) ] 
+
+- [**Matched Topological Subspace Detector**](./past_talks/20251106.md#matched-topological-subspace-detector), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)   \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20251106_liu.pdf) ] 
+
+
+
 
 
 ## [October 15th, 2025] **Special Session - Industry Talks**

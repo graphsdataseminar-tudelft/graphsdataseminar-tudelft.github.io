@@ -37,6 +37,7 @@ The seminar takes place every month and comprises 2/3 talks:
 - [**From Spaces to Graphs: Spatial Data Representation**](./past_talks/20251204.md#from-spaces-to-graphs-spatial-data-representation), [Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi) 
 
 
+- [**Floor Plan Similarity as Graph Comparison Problem**](./past_talks/20251204.md#floor-plan-similarity-as-graph-comparison-problem), [Casper van Engelenburg](https://www.tudelft.nl/en/staff/c.c.j.vanengelenburg/) 
 
 
 ---

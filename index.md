@@ -33,6 +33,8 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Location:** Electrical Engineering, Mathematics and Computer Sciences LB 01.170 Timmanzaal
 
+**Zoom:** [link](https://tudelft.zoom.us/j/97319427033)
+
 
 - [**From Spaces to Graphs: Spatial Data Representation**](./past_talks/20251204.md#from-spaces-to-graphs-spatial-data-representation), [Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi) 
 

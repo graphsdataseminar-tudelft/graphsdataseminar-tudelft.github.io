@@ -27,26 +27,27 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [December 4th, 2025] **Graphs and Architecture**
-
-**Time:** 15:00 - 16:30
-
-**Location:** Electrical Engineering, Mathematics and Computer Sciences LB 01.170 Timmanzaal
-
-**Zoom:** [link](https://tudelft.zoom.us/j/97319427033)
-
-
-- [**From Spaces to Graphs: Spatial Data Representation**](./past_talks/20251204.md#from-spaces-to-graphs-spatial-data-representation), [Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi) 
-
-
-- [**Floor Plan Similarity as Graph Comparison Problem**](./past_talks/20251204.md#floor-plan-similarity-as-graph-comparison-problem), [Casper van Engelenburg](https://www.tudelft.nl/en/staff/c.c.j.vanengelenburg/) 
-
 
 ---
 
 
 
 # **Past Talks**
+
+
+## [December 4th, 2025] **Graphs and Architecture**
+
+
+- [**From Spaces to Graphs: Spatial Data Representation**](./past_talks/20251204.md#from-spaces-to-graphs-spatial-data-representation), [Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20251204_khademi.pdf) ] 
+
+
+- [**Floor Plan Similarity as Graph Comparison Problem**](./past_talks/20251204.md#floor-plan-similarity-as-graph-comparison-problem), [Casper van Engelenburg](https://www.tudelft.nl/en/staff/c.c.j.vanengelenburg/)  \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20251204_engelenburg.pdf) ] 
+
+
 
 
 ## [November 6th, 2025] **Complex Networks**

@@ -40,12 +40,14 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**From Spaces to Graphs: Spatial Data Representation**](./past_talks/20251204.md#from-spaces-to-graphs-spatial-data-representation), [Seyran Khademi](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/seyran-khademi) \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20251204_khademi.pdf) ] 
+    ](../slides/20251204_khademi.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=s-Gr5yIb-BU) ]
 
 
 - [**Floor Plan Similarity as Graph Comparison Problem**](./past_talks/20251204.md#floor-plan-similarity-as-graph-comparison-problem), [Casper van Engelenburg](https://www.tudelft.nl/en/staff/c.c.j.vanengelenburg/)  \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20251204_engelenburg.pdf) ] 
+    ](../slides/20251204_engelenburg.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=vF3Z9rK8Xp0) ]
 
 
 
@@ -55,11 +57,13 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Node Metrics in Complex Networks: Foundations, Perspectives and Applications**](./past_talks/20251106.md#node-metrics-in-complex-networks-foundations-perspectives-and-applications), [Sergey Shvydun](https://www.nas.ewi.tudelft.nl/index.php/sergey-shvydun)   \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20251106_shvydun.pdf) ] 
+    ](../slides/20251106_shvydun.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=wuFsgJHdNv4) ]
 
 - [**Matched Topological Subspace Detector**](./past_talks/20251106.md#matched-topological-subspace-detector), [Chengen Liu](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/chengen-liu)   \
     [ [<span style="color:#D22B2B">Slides</span>
-    ](../slides/20251106_liu.pdf) ] 
+    ](../slides/20251106_liu.pdf) ]  [ [<span style="color:green">Recording</span>
+    ](https://www.youtube.com/watch?v=HTICoz_kCj0) ]
 
 
 

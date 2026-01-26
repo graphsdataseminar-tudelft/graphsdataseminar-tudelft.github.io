@@ -23,7 +23,20 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
+## [February 5th, 2026] **Graphs and Chemistry**
 
+
+**Time:** 15:00-16:30
+
+**Location:** HG 2.62, Civil Engineering 
+
+- [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber) 
+
+
+- [**GenComp: Generative Models for Spatial Compositionality Problems**](./past_talks/20251204.md#floor-plan-similarity-as-graph-comparison-problem), [Amelia Villegas Morcillo](https://amelvim.github.io/)
+
+
+- [**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**](./past_talks/20251204.md#floor-plan-similarity-as-graph-comparison-problem), [Lorenzo Di Fruscia](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/lorenzo-di-fruscia)
 
 
 

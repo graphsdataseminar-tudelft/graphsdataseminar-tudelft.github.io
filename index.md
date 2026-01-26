@@ -32,7 +32,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Zoom:** [link](https://tudelft.zoom.us/j/91887665721)
 
-- [**How to design sustainable molecules?**](./past_talks/20260205.md#how-to-design-sustainable-molecules), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber) 
+- [**How to Design Sustainable Molecules?**](./past_talks/20260205.md#how-to-design-sustainable-molecules), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber) 
 
 
 - [**GenComp: Generative Models for Spatial Compositionality Problems**](./past_talks/20260205.md#gencomp-generative-models-for-spatial-compositionality-problems), [Amelia Villegas Morcillo](https://amelvim.github.io/)

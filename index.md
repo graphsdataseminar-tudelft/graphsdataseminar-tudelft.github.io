@@ -28,7 +28,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Time:** 15:00-16:30
 
-**Location:** HG 2.62, Civil Engineering \
+**Location:** HG 2.62, Civil Engineering 
 
 **Zoom:** [link](https://tudelft.zoom.us/j/91887665721)
 

@@ -40,6 +40,19 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
+## [March 5th, 2026] **Special Session - Relational Structure Estimation**
+
+
+- [**Non-negative Weighted DAG Structure Learning**](./past_talks/20260305.md#non-negative-weighted-dag-structure-learning), [Samuel Rey Escudero](https://scholar.google.com/citations?user=fUy5BM4AAAAJ&hl=es) 
+
+
+- [**Joint Recovery of Simplicial Complexes via Binary Linear Programming**](./past_talks/20260305.md#joint-recovery-of-simplicial-complexes-via-binary-linear-programming), [Varun Sarathchandran](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/varun-sarathchandran)
+
+
+- [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en)
+
+
+
 
 ---
 

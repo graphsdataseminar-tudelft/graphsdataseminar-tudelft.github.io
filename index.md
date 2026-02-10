@@ -23,23 +23,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [February 5th, 2026] **Graphs and Chemistry**
-
-
-**Time:** 15:00-16:30
-
-**Location:** HG 2.62, Civil Engineering 
-
-**Zoom:** [link](https://tudelft.zoom.us/j/91887665721)
-
-- [**How to Design Sustainable Molecules?**](./past_talks/20260205.md#how-to-design-sustainable-molecules), [Jana Weber](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/jana-m-weber) 
-
-
-- [**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**](./past_talks/20260205.md#grounding-large-language-models-in-reaction-knowledge-graphs-for-synthesis-retrieval), [Lorenzo Di Fruscia](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/lorenzo-di-fruscia)
-
-
-- [**GenComp: Generative Models for Spatial Compositionality Problems**](./past_talks/20260205.md#gencomp-generative-models-for-spatial-compositionality-problems), [Amelia Villegas Morcillo](https://amelvim.github.io/)
-
 
 
 ## [March 5th, 2026] **Special Session - Relational Structure Estimation**
@@ -61,6 +44,17 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+## [February 5th, 2026] **Graphs and Chemistry**
+
+
+- [**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**](./past_talks/20260205.md#grounding-large-language-models-in-reaction-knowledge-graphs-for-synthesis-retrieval), [Lorenzo Di Fruscia](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/lorenzo-di-fruscia)
+
+
+- [**GenComp: Generative Models for Spatial Compositionality Problems**](./past_talks/20260205.md#gencomp-generative-models-for-spatial-compositionality-problems), [Amelia Villegas Morcillo](https://amelvim.github.io/)
+
+
 
 
 ## [December 4th, 2025] **Graphs and Architecture**

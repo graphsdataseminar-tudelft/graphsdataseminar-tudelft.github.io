@@ -27,6 +27,12 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [March 5th, 2026] **Special Session - Relational Structure Estimation**
 
+**Location**: 0.W100 Turing Room, Building 28  
+
+**Time**: 15:00 - 16:30
+
+**Zoom**: [link](https://tudelft.zoom.us/j/96831037879)
+
 
 - [**Non-negative Weighted DAG Structure Learning**](./past_talks/20260305.md#non-negative-weighted-dag-structure-learning), [Samuel Rey Escudero](https://scholar.google.com/citations?user=fUy5BM4AAAAJ&hl=es) 
 
@@ -34,8 +40,14 @@ The seminar takes place every month and comprises 2/3 talks:
 - [**Joint Recovery of Simplicial Complexes via Binary Linear Programming**](./past_talks/20260305.md#joint-recovery-of-simplicial-complexes-via-binary-linear-programming), [Varun Sarathchandran](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/varun-sarathchandran)
 
 
-- [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en)
+- [**NodePro: An Instance-Level Profiling Framework for Graph-Structured Data**](./past_talks/20260305.md#nodepro-an-instance-level-profiling-framework-for-graph-structured-data), [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en)
 
+
+
+
+## [April 2nd, 2026] **(Graph) Neural Networks Optimization**
+
+- [**Optimising (Graph) Neural Networks Using Exact Solvers**](./past_talks/20260402.md#optimising-graph-neural-networks-using-exact-solvers), [Neil Yorke-Smith](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith) 
 
 
 

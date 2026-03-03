@@ -49,6 +49,9 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Optimising (Graph) Neural Networks Using Exact Solvers**](./past_talks/20260402.md#optimising-graph-neural-networks-using-exact-solvers), [Neil Yorke-Smith](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith) 
 
+- [**Neural Program Synthesis: Learning to Program from Trees**](./past_talks/20260402.md#neural-program-synthesis-learning-to-program-from-trees), [Tilman Hinnerichs](https://tilman.hinnerichs.com/) 
+
+
 
 
 ---

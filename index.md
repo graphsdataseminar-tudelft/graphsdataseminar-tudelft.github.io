@@ -54,13 +54,19 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [March 5th, 2026] **Special Session - Relational Structure Estimation**
 
 
-- [**Non-negative Weighted DAG Structure Learning**](./past_talks/20260305.md#non-negative-weighted-dag-structure-learning), [Samuel Rey Escudero](https://scholar.google.com/citations?user=fUy5BM4AAAAJ&hl=es) 
+- [**Non-negative Weighted DAG Structure Learning**](./past_talks/20260305.md#non-negative-weighted-dag-structure-learning), [Samuel Rey Escudero](https://scholar.google.com/citations?user=fUy5BM4AAAAJ&hl=es)  \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20260305_rey.pdf) ]  
 
 
-- [**Joint Recovery of Simplicial Complexes via Binary Linear Programming**](./past_talks/20260305.md#joint-recovery-of-simplicial-complexes-via-binary-linear-programming), [Varun Sarathchandran](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/varun-sarathchandran)
+- [**Joint Recovery of Simplicial Complexes via Binary Linear Programming**](./past_talks/20260305.md#joint-recovery-of-simplicial-complexes-via-binary-linear-programming), [Varun Sarathchandran](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/varun-sarathchandran) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20260305_varun.pdf) ]  
 
 
-- [**NodePro: An Instance-Level Profiling Framework for Graph-Structured Data**](./past_talks/20260305.md#nodepro-an-instance-level-profiling-framework-for-graph-structured-data), [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en)
+- [**NodePro: An Instance-Level Profiling Framework for Graph-Structured Data**](./past_talks/20260305.md#nodepro-an-instance-level-profiling-framework-for-graph-structured-data), [Tianqi Zhao](https://scholar.google.com/citations?user=g09j58gAAAAJ&hl=en) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20260305_zhao.pdf) ]  
 
 
 
@@ -70,8 +76,9 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [February 5th, 2026] **Graphs and Chemistry**
 
 
-- [**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**](./past_talks/20260205.md#grounding-large-language-models-in-reaction-knowledge-graphs-for-synthesis-retrieval), [Lorenzo Di Fruscia](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/lorenzo-di-fruscia)
-
+- [**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**](./past_talks/20260205.md#grounding-large-language-models-in-reaction-knowledge-graphs-for-synthesis-retrieval), [Lorenzo Di Fruscia](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/the-delft-bioinformatics-lab/people/lorenzo-di-fruscia) \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20260205_difruscia.pdf) ]  
 
 - [**GenComp: Generative Models for Spatial Compositionality Problems**](./past_talks/20260205.md#gencomp-generative-models-for-spatial-compositionality-problems), [Amelia Villegas Morcillo](https://amelvim.github.io/)
 

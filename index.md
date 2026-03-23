@@ -25,13 +25,33 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [March 5th, 2026] **Special Session - Relational Structure Estimation**
+
+## [April 2nd, 2026] **(Graph) Neural Networks Optimization**
+
 
 **Location**: 0.W100 Turing Room, Building 28  
 
 **Time**: 15:00 - 16:30
 
-**Zoom**: [link](https://tudelft.zoom.us/j/96831037879)
+
+**Zoom**: [link](https://tudelft.zoom.us/j/93356125898)
+
+
+
+- [**Optimising (Graph) Neural Networks Using Exact Solvers**](./past_talks/20260402.md#optimising-graph-neural-networks-using-exact-solvers), [Neil Yorke-Smith](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith) 
+
+- [**Neural Program Synthesis: Learning to Program from Trees**](./past_talks/20260402.md#neural-program-synthesis-learning-to-program-from-trees), [Tilman Hinnerichs](https://tilman.hinnerichs.com/) 
+
+
+
+
+---
+
+
+# **Past Talks**
+
+
+## [March 5th, 2026] **Special Session - Relational Structure Estimation**
 
 
 - [**Non-negative Weighted DAG Structure Learning**](./past_talks/20260305.md#non-negative-weighted-dag-structure-learning), [Samuel Rey Escudero](https://scholar.google.com/citations?user=fUy5BM4AAAAJ&hl=es) 
@@ -45,20 +65,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [April 2nd, 2026] **(Graph) Neural Networks Optimization**
-
-- [**Optimising (Graph) Neural Networks Using Exact Solvers**](./past_talks/20260402.md#optimising-graph-neural-networks-using-exact-solvers), [Neil Yorke-Smith](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith) 
-
-- [**Neural Program Synthesis: Learning to Program from Trees**](./past_talks/20260402.md#neural-program-synthesis-learning-to-program-from-trees), [Tilman Hinnerichs](https://tilman.hinnerichs.com/) 
-
-
-
-
----
-
-
-
-# **Past Talks**
 
 
 ## [February 5th, 2026] **Graphs and Chemistry**

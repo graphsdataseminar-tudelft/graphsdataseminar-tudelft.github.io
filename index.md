@@ -25,17 +25,25 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
+## [May 7th, 2026] 
+
+
+- [Caterina De Bacco](https://www.cdebacco.com/) 
+
+- [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
+
+
+
+
+
+---
+
+
+# **Past Talks**
+
+
 
 ## [April 2nd, 2026] **(Graph) Neural Networks Optimization**
-
-
-**Location**: 0.W100 Turing Room, Building 28  
-
-**Time**: 15:00 - 16:30
-
-
-**Zoom**: [link](https://tudelft.zoom.us/j/93356125898)
-
 
 
 - [**Optimising (Graph) Neural Networks Using Exact Solvers**](./past_talks/20260402.md#optimising-graph-neural-networks-using-exact-solvers), [Neil Yorke-Smith](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith) 
@@ -45,10 +53,6 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
----
-
-
-# **Past Talks**
 
 
 ## [March 5th, 2026] **Special Session - Relational Structure Estimation**

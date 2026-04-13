@@ -28,7 +28,7 @@ The seminar takes place every month and comprises 2/3 talks:
 ## [May 7th, 2026] 
 
 
-- [Caterina De Bacco](https://www.cdebacco.com/) 
+- [**Optimal transport in networks: a physics perspective**](./past_talks/20260507.md#optimal-transport-in-networks-a-physics-perspective), [Caterina De Bacco](https://www.cdebacco.com/) 
 
 - [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
 

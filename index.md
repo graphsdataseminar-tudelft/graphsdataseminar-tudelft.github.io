@@ -25,12 +25,15 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [May 7th, 2026] 
+## [May 7th, 2026] Networks and Transportation
 
+**Location:** 0.W100 Turing, Building 28
+
+**Time:** 15:00 - 16:30
 
 - [**Optimal transport in Networks: a Physics Perspective**](./past_talks/20260507.md#optimal-transport-in-networks-a-physics-perspective), [Caterina De Bacco](https://www.cdebacco.com/) 
 
-- [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
+- [**Constrained Optimisation in Trasportation Networks**](./past_talks/20260507.md#constrained-optimisation-in-trasportation-networks), [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
 
 
 

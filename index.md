@@ -33,7 +33,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 - [**Optimal transport in Networks: a Physics Perspective**](./past_talks/20260507.md#optimal-transport-in-networks-a-physics-perspective), [Caterina De Bacco](https://www.cdebacco.com/) 
 
-- [**Constrained Optimisation in Trasportation Networks**](./past_talks/20260507.md#constrained-optimisation-in-trasportation-networks), [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
+- [**Constrained Optimisation in Transportation Networks**](./past_talks/20260507.md#constrained-optimisation-in-transportation-networks), [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
 
 
 

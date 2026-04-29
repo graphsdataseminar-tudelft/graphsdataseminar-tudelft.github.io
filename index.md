@@ -25,7 +25,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 
-## [May 7th, 2026] Networks and Transportation
+## [May 7th, 2026] **Networks and Transportation**
 
 **Location:** 0.W100 Turing, Building 28
 

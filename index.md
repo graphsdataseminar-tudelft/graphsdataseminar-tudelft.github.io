@@ -19,21 +19,23 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ---
 
+
+
 # **Upcoming Talks**
 
 
-
-
-
-## [May 7th, 2026] **Networks and Transportation**
-
-**Location:** 0.W100 Turing, Building 28
+## [June 4th, 2026] **Graphs and Material Modeling**
 
 **Time:** 15:00 - 16:30
 
-- [**Optimal transport in Networks: a Physics Perspective**](./past_talks/20260507.md#optimal-transport-in-networks-a-physics-perspective), [Caterina De Bacco](https://www.cdebacco.com/) 
+**Location:** 0.W100 Turing, Building 28
 
-- [**Constrained Optimisation in Transportation Networks**](./past_talks/20260507.md#constrained-optimisation-in-transportation-networks), [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
+**Zoom:** [link](https://tudelft.zoom.us/j/95005275859)
+
+
+- [**Hybrid Physics-Data Models for Simulating Material Behavior Across the Scales**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Iuri Rocha](https://www.tudelft.nl/staff/i.rocha/) 
+
+- [Joep Storm](https://www.tudelft.nl/staff/j.storm/) 
 
 
 
@@ -43,6 +45,21 @@ The seminar takes place every month and comprises 2/3 talks:
 
 
 # **Past Talks**
+
+
+
+
+
+## [May 7th, 2026] **Networks and Transportation**
+
+
+- [**Optimal transport in Networks: a Physics Perspective**](./past_talks/20260507.md#optimal-transport-in-networks-a-physics-perspective), [Caterina De Bacco](https://www.cdebacco.com/) 
+
+- [**Constrained Optimisation in Transportation Networks**](./past_talks/20260507.md#constrained-optimisation-in-transportation-networks), [Matteo Canaletti](https://it.linkedin.com/in/matteo-canaletti-5670211b3) 
+
+
+
+
 
 
 

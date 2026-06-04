@@ -23,28 +23,23 @@ The seminar takes place every month and comprises 2/3 talks:
 
 # **Upcoming Talks**
 
-
-## [June 4th, 2026] **Graphs and Material Modeling**
-
-**Time:** 15:00 - 16:30
-
-**Location:** 0.W100 Turing, Building 28
-
-**Zoom:** [link](https://tudelft.zoom.us/j/95005275859)
-
-
-- [**Hybrid Physics-Data Models for Simulating Material Behavior Across the Scales**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Iuri Rocha](https://www.tudelft.nl/staff/i.rocha/) 
-
-- [**Predicting Plastic Strain Localization in Porous Solids Using Graph Neural Networks**](./past_talks/20260604.md#predicting-plastic-strain-localization-in-porous-solids-using-graph-neural-networks), [Joep Storm](https://www.tudelft.nl/staff/j.storm/) 
-
-
-
+The seminar is paused for the summer, please check back in September!
 
 
 ---
 
 
 # **Past Talks**
+
+
+
+## [June 4th, 2026] **Graphs and Material Modeling**
+
+
+- [**Hybrid Physics-Data Models for Simulating Material Behavior Across the Scales**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Iuri Rocha](https://www.tudelft.nl/staff/i.rocha/) 
+
+- [**Predicting Plastic Strain Localization in Porous Solids Using Graph Neural Networks**](./past_talks/20260604.md#predicting-plastic-strain-localization-in-porous-solids-using-graph-neural-networks), [Joep Storm](https://www.tudelft.nl/staff/j.storm/) 
+
 
 
 

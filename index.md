@@ -36,9 +36,13 @@ The seminar is paused for the summer, please check back in September!
 ## [June 4th, 2026] **Graphs and Material Modeling**
 
 
-- [**Hybrid Physics-Data Models for Simulating Material Behavior Across the Scales**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Iuri Rocha](https://www.tudelft.nl/staff/i.rocha/) 
+- [**Hybrid Physics-Data Models for Simulating Material Behavior Across the Scales**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Iuri Rocha](https://www.tudelft.nl/staff/i.rocha/)   \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20260604_rocha.pdf) ]  
 
-- [**Predicting Plastic Strain Localization in Porous Solids Using Graph Neural Networks**](./past_talks/20260604.md#predicting-plastic-strain-localization-in-porous-solids-using-graph-neural-networks), [Joep Storm](https://www.tudelft.nl/staff/j.storm/) 
+- [**Predicting Plastic Strain Localization in Porous Solids Using Graph Neural Networks**](./past_talks/20260604.md#predicting-plastic-strain-localization-in-porous-solids-using-graph-neural-networks), [Joep Storm](https://www.tudelft.nl/staff/j.storm/)  \
+    [ [<span style="color:#D22B2B">Slides</span>
+    ](../slides/20260604_storm.pdf) ]  
 
 
 
@@ -63,7 +67,7 @@ The seminar is paused for the summer, please check back in September!
 
 - [**Optimising (Graph) Neural Networks Using Exact Solvers**](./past_talks/20260402.md#optimising-graph-neural-networks-using-exact-solvers), [Neil Yorke-Smith](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics/people/neil-yorke-smith) 
 
-- [**Neural Program Synthesis: Learning to Program from Trees**](./past_talks/20260402.md#neural-program-synthesis-learning-to-program-from-trees), [Tilman Hinnerichs](https://tilman.hinnerichs.com/) 
+- [**Neural Program Synthesis: Learning to Program from Trees**](./past_talks/20260402.md#neural-program-synthesis-learning-to-program-from-trees), [Tilman Hinnerichs](https://tilman.hinnerichs.com/)  \
     [ [<span style="color:#D22B2B">Slides</span>
     ](../slides/20260402_hinnerichs.pdf) ]  
 

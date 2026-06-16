@@ -27,7 +27,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 ## [June 22nd, 2026] **Special Session**
 
-**Time**: 11:00-12:00 
+**Time**: 10:00-11:00 
 
 **Location**: Turing Room (0.W100), Building 28, TU Delft
 

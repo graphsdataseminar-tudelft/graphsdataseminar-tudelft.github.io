@@ -33,7 +33,7 @@ The seminar takes place every month and comprises 2/3 talks:
 
 **Zoom**: [link](https://tudelft.zoom.us/j/92668484090)
 
-- [**State-space Models as Graphs**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Víctor Elvira](https://victorelvira.github.io/)
+- [**State-space Models as Graphs**](./past_talks/20260622.md#state-space-models-as-graphs), [Víctor Elvira](https://victorelvira.github.io/)
 
 
 

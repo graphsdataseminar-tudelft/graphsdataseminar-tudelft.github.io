@@ -23,7 +23,18 @@ The seminar takes place every month and comprises 2/3 talks:
 
 # **Upcoming Talks**
 
-The seminar is paused for the summer, please check back in September!
+
+
+## [June 22nd, 2026] **Special Session**
+
+**Time**: 11:00-12:00 
+
+**Location**: Turing Room (0.W100), Building 28, TU Delft
+
+**Zoom**: [link](https://tudelft.zoom.us/j/92668484090)
+
+- [**State-space Models as Graphs**](./past_talks/20260604.md#hybrid-physics-data-models-for-simulating-material-behavior-across-the-scales), [Víctor Elvira](https://victorelvira.github.io/)
+
 
 
 ---
